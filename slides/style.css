@@ -1,0 +1,30 @@
+/* Shared look for all CPSC 403 decks: light background for projectors,
+   blue and amber accents carried over from the 2025 palette. */
+:root {
+  --slidev-theme-primary: #1d4ed8;
+}
+.slidev-layout {
+  background: #ffffff;
+  color: #1f2937;
+}
+.slidev-layout h1 { color: #1e3a8a; }
+.slidev-layout h2 { color: #1d4ed8; }
+.slidev-layout strong { color: #b45309; }
+.slidev-layout a { color: #1d4ed8; }
+.slidev-layout blockquote {
+  border-left: 4px solid #f59e0b;
+  background: #fffbeb;
+  color: #374151;
+  padding: 0.4em 1em;
+}
+.slidev-layout.cover, .slidev-layout.section, .slidev-layout.center {
+  background: linear-gradient(135deg, #eff6ff 0%, #ffffff 60%);
+}
+.callout {
+  background: #eff6ff;
+  border-left: 4px solid #1d4ed8;
+  padding: 0.5em 1em;
+  border-radius: 6px;
+  margin: 0.6em 0;
+}
+.callout.amber { background: #fffbeb; border-left-color: #f59e0b; }
