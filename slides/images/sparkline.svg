@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300" font-family="Helvetica, Arial, sans-serif">
+<line x1="40" y1="230" x2="720" y2="230" stroke="#94a3b8" stroke-width="2"/>
+<line x1="40" y1="90" x2="720" y2="90" stroke="#94a3b8" stroke-width="2" stroke-dasharray="6 6"/>
+<text x="40" y="255" font-size="16" fill="#475569">what is</text>
+<text x="40" y="80" font-size="16" fill="#1d4ed8">what could be</text>
+<polyline points="60,230 140,230 140,90 220,90 220,230 300,230 300,90 400,90 400,230 470,230 470,90 560,90 560,230 620,230 620,60 720,60" fill="none" stroke="#1d4ed8" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="60" cy="230" r="8" fill="#b45309"/>
+<text x="60" y="290" font-size="15" fill="#b45309" text-anchor="middle">beginning</text>
+<circle cx="400" cy="90" r="8" fill="#b45309"/>
+<text x="400" y="290" font-size="15" fill="#b45309" text-anchor="middle">the turn</text>
+<circle cx="720" cy="60" r="8" fill="#b45309"/>
+<text x="700" y="290" font-size="15" fill="#b45309" text-anchor="middle">new bliss</text>
+</svg>

@@ -203,69 +203,84 @@ layout: section
 ## Why Resonate?
 
 ---
+layout: image-right
+image: ./images/chladni-plate.jpg
+---
 
-# Resonance is physics before it is a metaphor
+# Resonance is physics first
 
-<v-clicks>
+Salt on a metal plate, driven by a speaker. At the right frequency the grains stop bouncing and settle into a pattern, as if they knew where to go.
 
-- Every object has a natural frequency. Drive it at that frequency and it moves on its own, with no contact.
-- Duarte's demo: salt on a metal plate wired to a speaker. Raise the pitch and the grains reorganize into patterns, as if they knew where to go.
-- Her point: **you tune the message to the audience.** The audience does not tune itself to you.
-- The CS version: nobody changes their mental model because your slide said so. They change it when what you say fits something already in their head.
+<div class="callout mt-6">
+<strong>You tune the message to the audience.</strong> The audience does not tune itself to you.
+</div>
 
-</v-clicks>
+<div class="text-sm opacity-70 mt-8">
+Nobody changes their mental model because a slide told them to. They change it when what you say fits something already in their head.
+</div>
 
+---
+layout: two-cols
 ---
 
 # Why most presentations are boring
 
-<v-clicks>
+Not because the material is dull.
 
-- Not because the material is dull. Because **nothing changes** for the whole time: same tone, same slide shape, same pace.
-- Duarte's image: camouflage versus safety orange. Blending in is never the right move for an idea.
-- Contrast is what keeps a brain tapping along: in content, in texture, in delivery.
-- Her test before doing the work: *how badly do I want this idea to live?*
+Because **nothing changes** for the whole time: same tone, same slide shape, same pace.
 
-</v-clicks>
+Camouflage is never the right move for an idea. Be the orange one.
 
+<div class="callout amber mt-6">
+Duarte's test before doing the work: <em>how badly do I want this idea to live?</em>
+</div>
+
+::right::
+
+<div class="flex items-center h-full pl-6">
+<img src="./images/contrast.svg" alt="A grid of gray dots with one orange dot" />
+</div>
+
+---
+layout: image-right
+image: ./images/bonfire.jpg
 ---
 
 # Facts alone fall short
 
-<v-clicks>
+People agree with an argument and still do nothing. Being convinced is not being moved.
 
-- People agree with arguments and still do nothing. Being convinced is not the same as being moved.
-- The objection every engineer has: "They pay me to do, not to feel."
-- Duarte's answer: keep every fact. Add the reason anyone should care. Not half and half, just enough human to make the facts land.
-- You have all felt this at a senior project demo. The one that worked was the one where you understood why the student cared.
+The engineer's objection: *"They pay me to do, not to feel."*
 
-</v-clicks>
+Duarte's answer: keep every fact. Add the reason anyone should care.
+
+<div class="callout mt-6">
+"We cut latency 40%" is a fact.<br/>
+"The demo froze in front of the client, and here is what we found" is a story that contains the fact.
+</div>
+
+<div class="text-sm opacity-70 mt-4">
+Good personal stories show a flaw or a failure. That is exactly why they work.
+</div>
 
 ---
-
-# Stories carry information further than bullets do
-
-<v-clicks>
-
-- Information is static. A story moves, so the listener moves with it.
-- A story has someone who wants something, an obstacle, and a change. That is also the shape of every bug you have ever fixed.
-- "We reduced latency by 40%" is a fact. "The demo froze in front of the client, and here is what we found" is a story that contains the fact.
-- The uncomfortable part: good personal stories show a flaw or a failure. That is exactly why they work.
-
-</v-clicks>
-
+layout: image-right
+image: ./images/mentor-telemachus.jpg
 ---
 
 # You are not the hero
 
-<v-clicks>
+The original Mentor, pointing Telemachus toward the boat while everyone else holds him back.
 
-- The "about me" slide at the front of most decks. The cocktail-party bore who only talks about himself.
-- Duarte's rule: **the audience is the hero.** You are the mentor. Yoda, not Luke.
-- A mentor has been down the road already and hands the hero what they need to get unstuck.
-- What you want them thinking on the way out: "I have tools I did not have an hour ago." Not "wow, that presenter is smart."
+That is your job in a talk.
 
-</v-clicks>
+<div class="callout mt-6">
+<strong>The audience is the hero.</strong> You are the mentor: you have been down the road, and you hand them what they need to get unstuck.
+</div>
+
+<div class="text-sm opacity-70 mt-4">
+What you want them thinking on the way out: "I have tools I did not have an hour ago." Not "wow, that presenter is smart."
+</div>
 
 ---
 layout: center
@@ -273,13 +288,11 @@ layout: center
 
 # Rule 1: Resonance causes change
 
-Every talk in this course starts from one question:
+<img src="./images/sparkline.svg" class="mx-auto" style="max-height: 240px" alt="A sparkline moving between what is and what could be" />
 
-<div class="callout amber text-xl mt-4">
+<div class="callout amber text-lg mt-2">
 What do I want the people in this room to believe or do when I stop talking?
 </div>
-
-If you cannot answer that in one sentence, you are not ready to build slides.
 
 ---
 
@@ -320,3 +333,10 @@ layout: center
 - Submit the pledge on Moodle
 - Talk to a possible advisor
 - Start thinking about your talk topic, and about which talk you will analyze
+
+---
+layout: center
+class: text-sm
+---
+
+**Image credits.** Chladni plate: Estes Objethos Atelier, Matemateca IME-USP, CC BY-SA 4.0, via Wikimedia Commons. Bonfire: shixart1985 on Flickr, CC BY 2.0. *Telemachus, Urged by Mentor, Leaving the Island of Calypso*, Charles Meynier, 1800, public domain.
