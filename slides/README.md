@@ -8,7 +8,7 @@ Run one deck:
 slidev week01.md
 ```
 
-Export to PDF:
+Export to PDF (needs `npm i -g playwright-chromium`, done Sept 7, 2026):
 
 ```bash
 slidev export week01.md --output week01.pdf
