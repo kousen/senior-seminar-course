@@ -116,7 +116,7 @@ Teams of one to three are all fine. With about twenty seniors across both sectio
 
 **Post-mortems are due one week after your own talk.** The Moodle due date on each post-mortem is the outer limit for the whole round. Your real deadline is a week after you presented.
 
-**Talks cannot be rescheduled** except for genuine emergencies. If your partner or teammate is absent, the rest of the team presents.
+**Swapping slots is fine; skipping is not.** If you need a different day, trade with another student or team who agrees, update the sign-up sheet, and let me know. A slot that nobody fills is only excused for a genuine emergency. If your partner or teammate is absent, the rest of the team presents.
 
 Grade weights are subject to adjustment as the semester develops to ensure fair assignment of course grades.
 
@@ -136,7 +136,7 @@ You are welcome to use AI to draft the summary from the recording. The personal 
 - More than four unexcused absences, a third of the meetings, zeroes the component, and we will need to talk about whether to continue in the course.
 - The rest of the component is participation: asking questions and giving usable feedback after talks.
 
-Missing the day of your own talk is a separate matter. Talks cannot be rescheduled except for genuine emergencies, so that costs the presentation grade, not participation.
+Missing the day of your own talk is a separate matter. You may trade slots with a willing classmate, but an unfilled slot without a genuine emergency costs the presentation grade, not participation.
 
 ---
 

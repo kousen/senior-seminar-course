@@ -30,7 +30,7 @@ Bring what you wrote in Post-Mortem 1 under "what I will change." I will be watc
 - **Sign up** on the shared sheet linked from Moodle. Slots are first come, first served. Do not wait for the last week.
 - **Upload your slides** to the Moodle assignment for the round before class on the day you present. PDF preferred; PPTX or a Keynote export is fine. One upload per team, all names on the title slide.
 - **Questions and feedback follow every talk.** Expect five minutes. Answer the question that was asked.
-- **Talks cannot be rescheduled** except for genuine emergencies. If a teammate is absent, the rest of the team presents.
+- **Swapping slots is fine; skipping is not.** Trade with a student or team who agrees, update the sign-up sheet, and tell me. An unfilled slot is only excused for a genuine emergency. If a teammate is absent, the rest of the team presents.
 
 ## What I am grading
 
