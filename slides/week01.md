@@ -99,21 +99,6 @@ Every senior registers for CPSC 498 this fall and CPSC 499 in the spring, alongs
 
 ---
 
-# Who can advise this year
-
-| Faculty | Notes |
-|---|---|
-| Ewa Syta | Security-related projects |
-| Nil Chakraborttii | |
-| Jonathan Johnson | |
-| Takunari Miyazaki | |
-| Madalene Specialetti | |
-| Ken Kousen | AI Center projects with government and industry partners |
-
-Peter Yoon is on leave this fall.
-
----
-
 # The shape of the semester
 
 | When | What |
@@ -160,7 +145,7 @@ All **pass/redo**. No numeric grade. If it is thin, it comes back once with a no
 
 <v-clicks>
 
-1. **Talk analysis**, due September 22. Pick a recorded talk under twenty minutes, given to a real audience. Write the post-mortem you would write for a classmate, in Duarte's vocabulary.
+1. **Talk analysis**, due September 22. Pick a recorded talk of an hour or less, given to a real audience. Write the post-mortem you would write for a classmate, in Duarte's vocabulary.
 2. **Post-mortem 1**, one week after your first talk. What you intended, what landed, what did not, what you will change.
 3. **Post-mortem 2**, one week after your second talk. Same, plus: did you change what you said you would?
 
@@ -179,7 +164,7 @@ All **pass/redo**. No numeric grade. If it is thin, it comes back once with a no
 </v-clicks>
 
 <div class="callout amber mt-6">
-<strong>Miss a class?</strong> Submit a one-page memo on Moodle before the next class: key points, action items, and one line that is yours: the most important takeaway, or a question you would have asked. The memo turns an unexcused absence into an excused one. No memo, it counts.
+<strong>Miss a class?</strong> Submit a one-page memo on Moodle before the next class: key points, action items, and one line that is yours: the most important takeaway, or a question you would have asked. The memo turns an unexcused absence into an excused one. No memo, it costs 15 of the 100 participation points, which is 3 points off your course grade.
 </div>
 
 ---
@@ -187,7 +172,7 @@ All **pass/redo**. No numeric grade. If it is thin, it comes back once with a no
 # Where things live
 
 - **Moodle**: announcements, submissions, grades, links to everything else
-- **GitHub**: github.com/kousen/senior-seminar-course. Syllabus, assignment sheets, these slides.
+- **GitHub**: [github.com/kousen/senior-seminar-course](https://github.com/kousen/senior-seminar-course). Syllabus, assignment sheets, these slides.
 - **Sign-up sheet**: Google Sheet linked from Moodle. First come, first served.
 - **Zoom**: every class is recorded. Link on Moodle.
 - **Resonate**: free online edition with registration. Link on Moodle.
@@ -295,13 +280,13 @@ What do I want the people in this room to believe or do when I stop talking?
 
 ---
 
-# Try it now (three minutes)
+# Try it now (six minutes)
 
 Turn to the person next to you.
 
-1. Name a topic you might use for the "anything" talk.
-2. Finish this sentence out loud: *"When I stop talking, I want you to..."*
-3. Swap.
+1. **Two minutes each.** Name a topic you might use for the "anything" talk, then finish this sentence: *"When I stop talking, I want you to..."*
+2. **Listener's job:** push back until the sentence has something the audience could actually do or believe. "Know more about climbing" is a topic. "Try a climbing gym once" is an ask.
+3. **Then the room.** A few of you say your sentence out loud.
 
 Keep the sentence. It is the first line of your talk analysis, your post-mortem, and your slides.
 

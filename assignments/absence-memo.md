@@ -24,7 +24,7 @@ Using an AI tool to summarize the recording is fine and in the spirit of the cou
 
 A memo that is accurate and includes a real personal line passes. A memo that is only a summary, or that clearly did not come from the recording, comes back once.
 
-**No memo means the absence counts** against Attendance and Participation.
+**No memo means the absence counts.** Attendance and Participation starts at 100 points; each unexcused absence costs 15, which is 3 points off the course grade. An absence with a passing memo costs nothing. More than four unexcused absences zeroes the component.
 
 ## Submit
 

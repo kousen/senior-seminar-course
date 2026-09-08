@@ -8,7 +8,7 @@ In three weeks you will start giving feedback on classmates' talks, and in a few
 
 ## Pick a talk
 
-- A recorded talk of **20 minutes or less**.
+- A recorded talk of **an hour or less**. Most conference talks fit; so does any TED talk.
 - Given to a **real audience** in a room: a conference talk, a TED or TEDx talk, a lecture, a startup pitch, a keynote. Not a polished explainer video, screencast, or tutorial. The point is to watch someone try to move a room.
 - Any subject. Technical is fine; so is anything else.
 - Include a link to the video at the top of your write-up.

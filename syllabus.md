@@ -68,7 +68,7 @@ Sign up for a slot on the shared sign-up sheet linked from Moodle. Three slots p
 
 All writing in this course is **pass/redo**. There is no numeric grade. If a piece is thin, I send it back once with a note and you have a few days to resubmit.
 
-1. **Talk analysis (due September 22).** Pick a recorded talk of 20 minutes or less, given to a real audience, and write a one-to-two page post-mortem on it in Duarte's vocabulary. This puts the vocabulary in your hands before you present.
+1. **Talk analysis (due September 22).** Pick a recorded talk of an hour or less, given to a real audience, and write a one-to-two page post-mortem on it in Duarte's vocabulary. This puts the vocabulary in your hands before you present.
 2. **Post-mortem 1 (due one week after your Presentation 1).** One page: what you intended, what landed, what did not, what you will change.
 3. **Post-mortem 2 (due one week after your Presentation 2).** Same four parts, plus a comparison against what you said you would change after Presentation 1 and against your September talk analysis.
 
@@ -128,7 +128,15 @@ This course meets once a week, so one absence is a large slice of the semester. 
 
 You are welcome to use AI to draft the summary from the recording. The personal line is the part that has to be you.
 
-**The memo is what turns an unexcused absence into an excused one.** No memo, and the absence counts against Attendance and Participation. Memos are pass/redo like the other writing.
+**The memo is what turns an unexcused absence into an excused one.** Memos are pass/redo like the other writing. The arithmetic:
+
+- Attendance and Participation starts at 100 points.
+- An absence with a passing memo costs nothing.
+- An absence with no memo, or a memo that never passes, costs 15 points. At the 20% weight, that is 3 points off the course grade per absence.
+- More than four unexcused absences, a third of the meetings, zeroes the component, and we will need to talk about whether to continue in the course.
+- The rest of the component is participation: asking questions and giving usable feedback after talks.
+
+Missing the day of your own talk is a separate matter. Talks cannot be rescheduled except for genuine emergencies, so that costs the presentation grade, not participation.
 
 ---
 
