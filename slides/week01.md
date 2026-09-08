@@ -26,7 +26,7 @@ layout: two-cols
 
 # Check in
 
-Scan the code, pick your name, pick today's section, and type the code word.
+Scan the code, pick your name, pick today's section, and type the code word. Lowercase, but I am not picky about case.
 
 <div class="callout amber text-2xl mt-6">
 Code word: <strong>data</strong>

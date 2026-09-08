@@ -1,6 +1,6 @@
 # Presentation Guidelines
 
-Two talks this semester, plus the preliminary faculty pitch during finals week. All three are ten minutes.
+Two talks this semester at minimum, plus the preliminary faculty pitch in December. All are ten minutes. If slots are free you may give extra talks; they can only help.
 
 ## Presentation 1: the "anything" talk
 
@@ -13,16 +13,16 @@ The point is to isolate presentation skill from content difficulty. Last year th
 ## Presentation 2: the project pitch
 
 **When:** Weeks 8 to 11 (November 3, 10, 17, 24). Three slots per section per week.
-**Who:** your senior project team, one to three people. Everyone speaks.
+**Who:** your senior project team, one or two people, or three with the advisor's agreement. Everyone speaks.
 **Topic:** your senior project. The job is to make the room believe the project is worth doing. Same shape as the faculty pitch, lower stakes.
 
 Bring what you wrote in Post-Mortem 1 under "what I will change." I will be watching for it.
 
 ## The preliminary faculty pitch
 
-**When:** finals week, December 17 to 23, date to be announced.
+**When:** December, date to be announced; usually the week before finals, set around the Travelers representative's schedule.
 **Who:** your project team.
-**Audience:** the CS faculty. The question they are asking is the same one your classmates asked in November, with more at stake: is this worth a year of your time?
+**Audience:** the CS faculty and the Travelers representative. The question they are asking is the same one your classmates asked in November, with more at stake: is this worth a year of your time?
 
 ## Rules for every talk
 

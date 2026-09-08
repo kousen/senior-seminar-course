@@ -19,7 +19,7 @@ The two sections are identical. You are registered in one, but you may attend ei
 
 **Instructor:** [Ken Kousen](https://internet3.trincoll.edu/FacProfiles/Default.aspx?fid=1000576)\
 **Email:** [kkousen@trincoll.edu](mailto:kkousen@trincoll.edu)\
-**Office hours:** Tuesdays, 10:00 AM – 12:00 PM, MECC 175, or by appointment
+**Office hours:** Tuesdays, 10:00 AM – 12:00 PM, MECC 175. Many of you have class then, so email me and we will schedule a Zoom call instead. If it is on my calendar, it is real.
 
 ---
 
@@ -62,6 +62,8 @@ A free online edition is available with registration at [resonatebook.com](https
 
 **Presentation 2, the project pitch (Weeks 8–11).** Ten minutes, given by your senior project team. A first pass at convincing the room that your project is worth doing. Same shape as the preliminary faculty pitch at the end of the semester, lower stakes.
 
+Two talks is the minimum. If slots are free, you may give more; extra talks can only help your grade, and the practice is the point.
+
 Sign up for a slot on the shared sign-up sheet linked from Moodle. Three slots per section per week. Upload your slides to the Moodle assignment for that round before class on the day you present.
 
 ### Three short pieces of writing
@@ -76,7 +78,7 @@ Each assignment has a sheet in the course repository with the full expectations.
 
 ### The preliminary faculty pitch
 
-During finals week, each senior project team gives its ten-minute pitch to the faculty. The date will be announced once it is scheduled. The goal is the same as Presentation 2 with a different audience: convince the faculty the project is worth doing. The spring semester ends with the real thing at the student conference.
+In December, each senior project team gives its ten-minute pitch to the faculty and the Travelers representative. The date is set around the representative's schedule, usually the week before finals, and will be announced on Moodle once it is fixed. The goal is the same as Presentation 2 with a different audience: convince the faculty the project is worth doing. The spring semester ends with the real thing at the student conference.
 
 ### Peer feedback and attendance
 
@@ -95,7 +97,7 @@ To register:
 
 Faculty available to advise projects this year: Profs. Syta (security-related projects), Chakraborttii, Johnson, Miyazaki, Specialetti, and Kousen. Prof. Yoon is on leave this fall. I will advise a set of projects with government and industry partners organized through the Elting Center for Innovation and Entrepreneurship and the college's AI Center; Danny Briere, who directs the Elting Center, will describe them on the first day.
 
-Teams of one to three are all fine. With about twenty seniors across both sections, the aim is twelve or fewer project teams.
+Teams of one or two are the norm. A team of three needs the advisor's agreement that the project is big enough to keep three people busy for a year. With about twenty seniors across both sections, the aim is twelve or fewer project teams.
 
 ---
 
@@ -106,7 +108,7 @@ Teams of one to three are all fine. With about twenty seniors across both sectio
 | **Attendance and Participation** | 20% | Being in the room, asking questions, giving usable feedback after talks. |
 | **Presentations** | 40% | Presentation 1, the "anything" talk (15%). Presentation 2, the project pitch (25%). |
 | **Writing** | 20% | Talk analysis, Post-mortem 1, Post-mortem 2. Each is pass/redo; the category is the fraction passed. |
-| **Preliminary Faculty Pitch** | 20% | The team's ten-minute pitch to the faculty during finals week. |
+| **Preliminary Faculty Pitch** | 20% | The team's ten-minute pitch to the faculty and the Travelers representative in December. |
 
 ### Notes on grading
 
@@ -202,8 +204,8 @@ Chapters refer to *Resonate*. Read the chapter before the class where it is list
 ### Week 13 — Tuesday, December 8 *(last meeting)*
 - Rehearsal for the preliminary faculty pitch
 
-### Finals Week (December 17–23)
-**Preliminary faculty pitch**, ten minutes per team, date to be announced
+### December, date to be announced
+**Preliminary faculty pitch**, ten minutes per team, with the Travelers representative present. Usually the week before finals; set around the representative's schedule.
 
 ---
 
