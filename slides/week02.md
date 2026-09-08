@@ -137,7 +137,26 @@ Something has to be at stake. If the audience believes nothing is lost when the 
 </div>
 
 ---
-layout: two-cols
+
+# The hero's journey
+
+<div class="grid gap-6 items-center" style="grid-template-columns: 2fr 3fr">
+<div>
+
+Campbell found the same shape in myths everywhere. Vogler cut it to twelve steps for Hollywood.
+
+The line across the middle matters more than the steps. Above it is the **ordinary world**. Below it is the **special world**, where the hero picks up skills and brings them home.
+
+<div class="callout mt-4">
+A talk takes the audience only as far as step four. You are the mentor. Whether they <strong>cross the threshold</strong> is their decision, made after you stop talking.
+</div>
+
+</div>
+<div>
+<img src="./images/hero-journey.svg" style="width: 100%; max-height: 440px" alt="The twelve-step hero's journey drawn as a wheel" />
+</div>
+</div>
+
 ---
 
 # The hero's journey
