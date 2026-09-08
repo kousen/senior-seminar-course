@@ -29,7 +29,7 @@ layout: two-cols
 Scan the code, pick your name, pick today's section, and type the code word.
 
 <div class="callout amber text-2xl mt-6">
-Code word: <strong>salt</strong>
+Code word: <strong>data</strong>
 </div>
 
 <div class="text-sm opacity-70 mt-8">
