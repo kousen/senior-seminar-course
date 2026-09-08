@@ -45,7 +45,6 @@ layout: center
 - Trinity CS since 2022; also teaching CPSC 415, AI Integration, on Mondays
 - Thirty years of technical training and conference talks: Java, Spring, Kotlin, AI
 - Author of *Claude Code: Up and Running* and several other books
-- Future director of the college's AI Center
 
 <div class="callout mt-6">
 <strong>Office hours:</strong> Tuesdays 10 AM to noon, MECC 175, or by appointment.
