@@ -93,7 +93,7 @@ To register:
 1. Talk to a faculty advisor and get their agreement. You need only enough of an idea for the advisor to say "yes, let's get started." Projects can and do change as they develop.
 2. Submit the [special registration form](https://forms.trincoll.edu/special-registration/) on the Registrar's site.
 
-Faculty available to advise projects this year: Ewa Syta (security-related projects), Nil Chakraborttii, Jonathan Johnson, Takunari Miyazaki, Madalene Specialetti, and Ken Kousen. Peter Yoon is on leave this fall. Ken Kousen will advise a set of projects with government and industry partners organized through the Elting Center for Innovation and Entrepreneurship and the college's AI Center; Danny Briere, who directs the Elting Center, will describe them on the first day.
+Faculty available to advise projects this year: Profs. Syta (security-related projects), Chakraborttii, Johnson, Miyazaki, Specialetti, and Kousen. Prof. Yoon is on leave this fall. I will advise a set of projects with government and industry partners organized through the Elting Center for Innovation and Entrepreneurship and the college's AI Center; Danny Briere, who directs the Elting Center, will describe them on the first day.
 
 Teams of one to three are all fine. With about twenty seniors across both sections, the aim is twelve or fewer project teams.
 

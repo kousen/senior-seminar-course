@@ -21,6 +21,28 @@ Trinity College · Fall 2026
 </div>
 
 ---
+layout: two-cols
+---
+
+# Check in
+
+Scan the code, pick your name, pick today's section, and type the code word.
+
+<div class="callout amber text-2xl mt-6">
+Code word: <strong>salt</strong>
+</div>
+
+<div class="text-sm opacity-70 mt-8">
+Do this at the start of every class. It is how attendance gets recorded, and the timestamp is how "late" gets recorded.
+</div>
+
+::right::
+
+<div class="flex items-center justify-center h-full">
+<img src="./images/checkin-qr.png" class="w-80" alt="QR code for the check-in form" />
+</div>
+
+---
 layout: center
 ---
 
