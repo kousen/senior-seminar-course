@@ -93,7 +93,7 @@ Every senior registers for CPSC 498 this fall and CPSC 499 in the spring, in add
 To register:
 
 1. Talk to a faculty advisor and get their agreement. You need only enough of an idea for the advisor to say "yes, let's get started." Projects can and do change as they develop.
-2. Submit the [special registration form](https://forms.trincoll.edu/special-registration/) on the Registrar's site.
+2. Submit the [special registration form](https://forms.trincoll.edu/special-registration/) on the Registrar's site, by the add/drop deadline, **Tuesday, September 15**.
 
 Faculty available to advise projects this year: Profs. Syta (security-related projects), Chakraborttii, Johnson, Miyazaki, Specialetti, and Kousen. Prof. Yoon is on leave this fall. I will advise a set of projects with government and industry partners organized through the Elting Center for Innovation and Entrepreneurship and the college's AI Center; Danny Briere, who directs the Elting Center, will describe them on the first day.
 

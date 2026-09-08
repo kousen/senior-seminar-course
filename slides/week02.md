@@ -66,7 +66,7 @@ layout: center
 <v-clicks>
 
 - **Academic Honesty Pledge** is due today on Moodle. Paste, sign, submit.
-- **CPSC 498:** have you talked to an advisor? The special registration form is linked on Moodle. Advisor first, then the form.
+- **CPSC 498:** have you talked to an advisor? The special registration form is linked on Moodle. Advisor first, then the form. **The add/drop deadline is today, September 15.** After today it takes a late-add form from the Registrar.
 - **Sign-up sheet:** Round 1 talks start next week, September 22. Three slots per section per week. Grab one.
 - **Talk analysis** is due next week, before class. An hour or less, given to a real audience. The sheet is in the repo.
 - Recordings from last week are on the Moodle "Class recordings" page, both sections.
