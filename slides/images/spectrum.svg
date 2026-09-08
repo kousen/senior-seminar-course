@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 220" font-family="Helvetica, Arial, sans-serif">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#cbd5e1"/><stop offset="1" stop-color="#1d4ed8"/></linearGradient></defs>
+<rect x="60" y="90" width="640" height="18" rx="9" fill="url(#g)"/>
+<text x="60" y="70" font-size="18" fill="#475569" font-weight="bold">Report</text>
+<text x="60" y="140" font-size="14" fill="#475569">facts, organized by topic</text>
+<text x="60" y="160" font-size="14" fill="#475569">meant to be read</text>
+<text x="700" y="70" font-size="18" fill="#1e3a8a" font-weight="bold" text-anchor="end">Story</text>
+<text x="700" y="140" font-size="14" fill="#475569" text-anchor="end">scenes, organized for drama</text>
+<text x="700" y="160" font-size="14" fill="#475569" text-anchor="end">meant to be felt</text>
+<circle cx="380" cy="99" r="16" fill="#b45309"/>
+<text x="380" y="50" font-size="18" fill="#b45309" font-weight="bold" text-anchor="middle">Your talk lives here</text>
+<text x="380" y="200" font-size="14" fill="#475569" text-anchor="middle">an explanation: facts and story, layered</text>
+</svg>

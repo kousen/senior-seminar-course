@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" font-family="Helvetica, Arial, sans-serif">
+<circle cx="240" cy="190" r="150" fill="#eff6ff" stroke="#1d4ed8" stroke-width="3"/>
+<circle cx="400" cy="190" r="150" fill="#fffbeb" stroke="#b45309" stroke-width="3" fill-opacity="0.85"/>
+<text x="160" y="80" font-size="18" fill="#1d4ed8" font-weight="bold">The audience</text>
+<text x="160" y="104" font-size="13" fill="#475569">lifestyle, knowledge,</text><text x="160" y="122" font-size="13" fill="#475569">desires, values, influences</text>
+<text x="480" y="80" font-size="18" fill="#b45309" font-weight="bold" text-anchor="end">You, the mentor</text>
+<text x="480" y="104" font-size="13" fill="#475569" text-anchor="end">guidance, confidence,</text><text x="480" y="122" font-size="13" fill="#475569" text-anchor="end">tools</text>
+<text x="320" y="185" font-size="15" fill="#1e3a8a" text-anchor="middle" font-weight="bold">common ground</text>
+<text x="320" y="207" font-size="12" fill="#475569" text-anchor="middle">shared experiences</text><text x="320" y="224" font-size="12" fill="#475569" text-anchor="middle">common goals</text>
+<text x="320" y="355" font-size="14" fill="#1e3a8a" text-anchor="middle" font-style="italic">Speak from the overlap. Persuade toward what lies outside it.</text>
+</svg>

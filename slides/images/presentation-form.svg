@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" font-family="Helvetica, Arial, sans-serif">
+<line x1="40" y1="250" x2="760" y2="250" stroke="#94a3b8" stroke-width="2"/>
+<line x1="40" y1="110" x2="760" y2="110" stroke="#94a3b8" stroke-width="2" stroke-dasharray="6 6"/>
+<text x="40" y="275" font-size="15" fill="#475569">what is</text>
+<text x="40" y="100" font-size="15" fill="#1d4ed8">what could be</text>
+<polyline points="60,250 130,250 130,110 190,110 190,250 250,250 250,110 320,110 320,250 380,250 380,110 450,110 450,250 500,250 500,110 560,110 560,250 610,250 610,80 700,80" fill="none" stroke="#1d4ed8" stroke-width="5" stroke-linejoin="round"/>
+<line x1="700" y1="80" x2="760" y2="80" stroke="#1d4ed8" stroke-width="5" stroke-dasharray="8 8"/>
+<rect x="60" y="255" width="70" height="4" fill="#b45309"/><text x="95" y="300" font-size="13" fill="#b45309" text-anchor="middle">beginning</text><text x="95" y="318" font-size="12" fill="#475569" text-anchor="middle">10% at most</text>
+<circle cx="130" cy="180" r="9" fill="#b45309"/><text x="130" y="45" font-size="14" fill="#b45309" text-anchor="middle" font-weight="bold">call to adventure</text><text x="130" y="63" font-size="12" fill="#475569" text-anchor="middle">the gap appears</text>
+<text x="370" y="300" font-size="13" fill="#b45309" text-anchor="middle">middle: contrast, back and forth</text><text x="370" y="318" font-size="12" fill="#475569" text-anchor="middle">content, emotion, delivery</text>
+<circle cx="610" cy="165" r="9" fill="#b45309"/><text x="610" y="45" font-size="14" fill="#b45309" text-anchor="middle" font-weight="bold">call to action</text><text x="610" y="63" font-size="12" fill="#475569" text-anchor="middle">what you want them to do</text>
+<text x="720" y="300" font-size="13" fill="#b45309" text-anchor="middle">new bliss</text><text x="720" y="318" font-size="12" fill="#475569" text-anchor="middle">and then they cross</text>
+</svg>
