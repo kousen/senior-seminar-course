@@ -366,7 +366,7 @@ For the talk you signed up for, or your project pitch if your "anything" talk is
 3. **One refusal, inoculated.** The first objection someone will raise, and the sentence you will say before they can.
 
 <div class="callout amber mt-4">
-Keep it with last week's sketch. Line 1 becomes the "what I intended" of your post-mortem. If you cannot write line 1 as a sentence, you have a topic, not a talk yet.
+Keep it. Line 1 becomes the "what I intended" of your post-mortem. If you cannot write line 1 as a sentence, you have a topic, not a talk yet.
 </div>
 
 ---
