@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 420" width="520" height="420" font-family="Helvetica, Arial, sans-serif">
+<!-- staircase of seven rewards, bottom = basic needs -->
+<g font-size="16">
+<rect x="20" y="360" width="480" height="44" rx="6" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2"/><text x="40" y="388" fill="#1e3a8a">Basic needs <tspan fill="#475569" font-size="13">food, shelter, rest</tspan></text>
+<rect x="60" y="308" width="440" height="44" rx="6" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2"/><text x="80" y="336" fill="#1e3a8a">Security <tspan fill="#475569" font-size="13">safe at home, at work, online</tspan></text>
+<rect x="100" y="256" width="400" height="44" rx="6" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2"/><text x="120" y="284" fill="#1e3a8a">Savings <tspan fill="#475569" font-size="13">time and money back</tspan></text>
+<rect x="140" y="204" width="360" height="44" rx="6" fill="#fffbeb" stroke="#f59e0b" stroke-width="2"/><text x="160" y="232" fill="#1e3a8a">Prize <tspan fill="#475569" font-size="13">something they get to own</tspan></text>
+<rect x="180" y="152" width="320" height="44" rx="6" fill="#fffbeb" stroke="#f59e0b" stroke-width="2"/><text x="200" y="180" fill="#1e3a8a">Recognition <tspan fill="#475569" font-size="13">seen in a new light</tspan></text>
+<rect x="220" y="100" width="280" height="44" rx="6" fill="#fffbeb" stroke="#f59e0b" stroke-width="2"/><text x="240" y="128" fill="#1e3a8a">Relationship <tspan fill="#475569" font-size="13">part of a group</tspan></text>
+<rect x="260" y="48" width="240" height="44" rx="6" fill="#fffbeb" stroke="#f59e0b" stroke-width="2"/><text x="280" y="76" fill="#1e3a8a">Destiny <tspan fill="#475569" font-size="13">full potential</tspan></text>
+</g>
+<text x="30" y="30" font-size="14" fill="#475569">seven kinds of reward, from the body to the self</text>
+</svg>

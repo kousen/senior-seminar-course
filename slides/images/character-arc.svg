@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" width="760" height="360" font-family="Helvetica, Arial, sans-serif">
+<!-- first page -->
+<rect x="40" y="40" width="220" height="280" rx="8" fill="#ffffff" stroke="#94a3b8" stroke-width="3"/>
+<text x="150" y="75" font-size="18" fill="#475569" text-anchor="middle" font-weight="bold">first page</text>
+<g stroke="#cbd5e1" stroke-width="4" stroke-linecap="round">
+<line x1="70" y1="110" x2="230" y2="110"/><line x1="70" y1="135" x2="210" y2="135"/><line x1="70" y1="160" x2="225" y2="160"/>
+<line x1="70" y1="185" x2="190" y2="185"/><line x1="70" y1="210" x2="220" y2="210"/><line x1="70" y1="235" x2="200" y2="235"/>
+</g>
+<text x="150" y="290" font-size="15" fill="#475569" text-anchor="middle">who they are walking in</text>
+<!-- last page -->
+<rect x="500" y="40" width="220" height="280" rx="8" fill="#eff6ff" stroke="#1d4ed8" stroke-width="3"/>
+<text x="610" y="75" font-size="18" fill="#1d4ed8" text-anchor="middle" font-weight="bold">last page</text>
+<g stroke="#93c5fd" stroke-width="4" stroke-linecap="round">
+<line x1="530" y1="110" x2="690" y2="110"/><line x1="530" y1="135" x2="670" y2="135"/><line x1="530" y1="160" x2="685" y2="160"/>
+<line x1="530" y1="185" x2="650" y2="185"/><line x1="530" y1="210" x2="680" y2="210"/><line x1="530" y1="235" x2="660" y2="235"/>
+</g>
+<text x="610" y="290" font-size="15" fill="#1d4ed8" text-anchor="middle">who they are walking out</text>
+<!-- arc between -->
+<path d="M 265 180 Q 380 40 495 180" fill="none" stroke="#b45309" stroke-width="5" stroke-linecap="round"/>
+<polyline points="478,158 495,180 470,184" fill="none" stroke="#b45309" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="380" y="92" font-size="16" fill="#b45309" text-anchor="middle" font-weight="bold">the arc</text>
+<text x="380" y="225" font-size="14" fill="#475569" text-anchor="middle">inside first: belief</text>
+<text x="380" y="248" font-size="14" fill="#475569" text-anchor="middle">then outside: action</text>
+<text x="380" y="345" font-size="15" fill="#475569" text-anchor="middle">A story analyst reads the first and last pages. If the hero has not changed, the film is dull.</text>
+</svg>

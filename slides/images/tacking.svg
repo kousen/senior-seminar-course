@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" width="760" height="340" font-family="Helvetica, Arial, sans-serif">
+<!-- wind arrows from the right -->
+<g stroke="#94a3b8" stroke-width="3" fill="none" stroke-linecap="round">
+<line x1="720" y1="70" x2="620" y2="70"/><polyline points="640,58 620,70 640,82"/>
+<line x1="720" y1="170" x2="620" y2="170"/><polyline points="640,158 620,170 640,182"/>
+<line x1="720" y1="270" x2="620" y2="270"/><polyline points="640,258 620,270 640,282"/>
+</g>
+<text x="670" y="40" font-size="16" fill="#475569" text-anchor="middle">wind = resistance</text>
+<!-- destination -->
+<circle cx="580" cy="170" r="14" fill="#b45309"/>
+<text x="580" y="210" font-size="15" fill="#b45309" text-anchor="middle">destination</text>
+<!-- zigzag course -->
+<polyline points="40,170 130,90 220,250 310,90 400,250 490,110 566,170" fill="none" stroke="#1d4ed8" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="40" cy="170" r="10" fill="#1d4ed8"/>
+<text x="40" y="210" font-size="15" fill="#1d4ed8" text-anchor="middle">where they are</text>
+<!-- labels on tacks -->
+<text x="130" y="72" font-size="14" fill="#1d4ed8" text-anchor="middle">what could be</text>
+<text x="310" y="72" font-size="14" fill="#1d4ed8" text-anchor="middle">what could be</text>
+<text x="490" y="92" font-size="14" fill="#1d4ed8" text-anchor="middle">what could be</text>
+<text x="220" y="280" font-size="14" fill="#475569" text-anchor="middle">what is</text>
+<text x="400" y="280" font-size="14" fill="#475569" text-anchor="middle">what is</text>
+<text x="380" y="325" font-size="15" fill="#475569" text-anchor="middle">You cannot sail straight into the wind. You tack, and each tack uses the wind against itself.</text>
+</svg>
