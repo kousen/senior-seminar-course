@@ -4,7 +4,7 @@ Two talks this semester at minimum, plus the preliminary faculty pitch in Decemb
 
 ## Presentation 1: the "anything" talk
 
-**When:** Weeks 3 to 6 (September 22, 29, October 6, 20). Three slots per section per week.
+**When:** Weeks 3 to 7 (September 22, 29, October 6, 20, 27). Three slots per section per week.
 **Who:** alone or with one partner. Partners split the speaking.
 **Topic:** anything you care about. A hobby, a sport, a trip, a family recipe, a side project, an opinion about technology or anything else. Senior project teams have not formed yet, so this talk is deliberately not about your project.
 

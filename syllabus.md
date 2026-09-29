@@ -174,14 +174,15 @@ Chapters refer to *Resonate*. Read the chapter before the class where it is list
 
 ### Week 6 — Tuesday, October 20
 - Chapter 7, *Deliver Something They'll Always Remember*
-- Round 1 talks conclude
+- Round 1 talks
 
 ### Week 7 — Tuesday, October 27
-- **Due: Post-mortem 1** (outer limit; one week after your own talk)
+- Round 1 talks conclude
 - Chapter 8, *There's Always Room to Improve*
 - Project teams and advisors should be settling; CPSC 498 forms in
 
 ### Week 8 — Tuesday, November 3
+- **Due: Post-mortem 1** (outer limit; one week after your own talk)
 - Chapter 9, *Change Your World*
 - Round 2 project pitches begin
 

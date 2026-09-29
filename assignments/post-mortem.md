@@ -1,6 +1,6 @@
 # Post-Mortem (after each of your two talks)
 
-**Due:** one week after your own talk. The Moodle due date on each round (October 27 for Presentation 1, December 1 for Presentation 2) is the outer limit for everyone. Individual, even if you presented with a partner or a team. **Pass/redo.**
+**Due:** one week after your own talk. The Moodle due date on each round (November 3 for Presentation 1, December 1 for Presentation 2) is the outer limit for everyone. Individual, even if you presented with a partner or a team. **Pass/redo.**
 
 ## Why this exists
 
