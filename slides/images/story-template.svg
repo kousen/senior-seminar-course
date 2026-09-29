@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" font-family="Helvetica, Arial, sans-serif">
+<!-- short story template: beginning, middle, end -->
+<g font-size="15" fill="#475569">
+<rect x="10" y="40" width="260" height="240" rx="10" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2"/>
+<text x="140" y="28" text-anchor="middle" font-size="20" font-weight="bold" fill="#1e3a8a">Beginning</text>
+<text x="30" y="80"><tspan font-weight="bold" fill="#1e3a8a">When</tspan> "Last spring…"</text>
+<text x="30" y="120"><tspan font-weight="bold" fill="#1e3a8a">Who / what</tspan> "a TA, a bug…"</text>
+<text x="30" y="160"><tspan font-weight="bold" fill="#1e3a8a">Where</tspan> "in the MECC lab…"</text>
+<text x="30" y="220" font-size="13">Set the scene in one breath.</text>
+<rect x="320" y="40" width="260" height="240" rx="10" fill="#fffbeb" stroke="#f59e0b" stroke-width="2"/>
+<text x="450" y="28" text-anchor="middle" font-size="20" font-weight="bold" fill="#1e3a8a">Middle</text>
+<text x="340" y="80"><tspan font-weight="bold" fill="#1e3a8a">Context</tspan> what was going on</text>
+<text x="340" y="120"><tspan font-weight="bold" fill="#1e3a8a">Conflict</tspan> what could not continue</text>
+<text x="340" y="160"><tspan font-weight="bold" fill="#1e3a8a">Attempt</tspan> "so we tried…"</text>
+<text x="340" y="200"><tspan font-weight="bold" fill="#b45309">Complication</tspan> what if it failed?</text>
+<text x="340" y="240" font-size="13">Optional, but it is where the tension lives.</text>
+<rect x="630" y="40" width="260" height="240" rx="10" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2"/>
+<text x="760" y="28" text-anchor="middle" font-size="20" font-weight="bold" fill="#1e3a8a">End</text>
+<text x="650" y="80"><tspan font-weight="bold" fill="#1e3a8a">Resolution</tspan> what happened</text>
+<text x="650" y="104" font-size="13">(it does not have to be happy)</text>
+<text x="650" y="150"><tspan font-weight="bold" fill="#b45309">Most important point</tspan></text>
+<text x="650" y="174">the one line they repeat</text>
+</g>
+<g stroke="#94a3b8" stroke-width="3" fill="none"><line x1="276" y1="160" x2="312" y2="160"/><polyline points="302,150 314,160 302,170"/><line x1="586" y1="160" x2="622" y2="160"/><polyline points="612,150 624,160 612,170"/></g>
+</svg>

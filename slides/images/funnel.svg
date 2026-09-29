@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 400" width="440" height="400" font-family="Helvetica, Arial, sans-serif">
+<!-- diverge (collect many ideas) then converge through the big-idea funnel -->
+<g fill="#1d4ed8" opacity="0.8">
+<circle cx="60" cy="40" r="7"/><circle cx="110" cy="22" r="7"/><circle cx="170" cy="48" r="7"/><circle cx="230" cy="20" r="7"/><circle cx="290" cy="44" r="7"/><circle cx="350" cy="24" r="7"/><circle cx="390" cy="56" r="7"/>
+<circle cx="85" cy="78" r="7"/><circle cx="140" cy="92" r="7"/><circle cx="205" cy="74" r="7"/><circle cx="265" cy="96" r="7"/><circle cx="325" cy="80" r="7"/><circle cx="40" cy="96" r="7"/><circle cx="395" cy="104" r="7"/>
+</g>
+<path d="M30 130 L410 130 L250 300 L250 360 L190 360 L190 300 Z" fill="#fffbeb" stroke="#f59e0b" stroke-width="3"/>
+<text x="220" y="175" text-anchor="middle" font-size="18" fill="#1e3a8a" font-weight="bold">filter: the big idea</text>
+<text x="220" y="200" text-anchor="middle" font-size="14" fill="#475569">does this support it? no → cut</text>
+<g fill="#b45309"><circle cx="205" cy="340" r="8"/><circle cx="220" cy="318" r="8"/><circle cx="235" cy="340" r="8"/></g>
+<text x="220" y="390" text-anchor="middle" font-size="15" fill="#b45309">three to five messages</text>
+<text x="20" y="128" font-size="13" fill="#475569">diverge: everything</text>
+<g stroke="#94a3b8" stroke-width="2" fill="none" stroke-dasharray="4 4"><line x1="20" y1="215" x2="120" y2="215"/></g>
+<text x="20" y="238" font-size="13" fill="#475569">converge</text>
+</svg>

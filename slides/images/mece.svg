@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 360" width="440" height="360" font-family="Helvetica, Arial, sans-serif">
+<!-- overlapping topics vs mutually exclusive, collectively exhaustive topics -->
+<text x="220" y="24" text-anchor="middle" font-size="16" fill="#475569">overlapping: "didn't we already cover this?"</text>
+<g fill-opacity="0.25" stroke-width="2"><circle cx="150" cy="95" r="55" fill="#1d4ed8" stroke="#1d4ed8"/><circle cx="220" cy="95" r="55" fill="#f59e0b" stroke="#f59e0b"/><circle cx="290" cy="95" r="55" fill="#1d4ed8" stroke="#1d4ed8"/></g>
+<text x="220" y="200" text-anchor="middle" font-size="16" fill="#1e3a8a" font-weight="bold">MECE: no overlap, nothing missing</text>
+<rect x="20" y="220" width="400" height="80" rx="8" fill="none" stroke="#94a3b8" stroke-width="2" stroke-dasharray="6 4"/>
+<g font-size="15" fill="#1e3a8a" text-anchor="middle">
+<rect x="28" y="228" width="124" height="64" rx="6" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2"/><text x="90" y="266">problem</text>
+<rect x="158" y="228" width="124" height="64" rx="6" fill="#fffbeb" stroke="#f59e0b" stroke-width="2"/><text x="220" y="266">approach</text>
+<rect x="288" y="228" width="124" height="64" rx="6" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2"/><text x="350" y="266">plan and risk</text>
+</g>
+<text x="220" y="330" text-anchor="middle" font-size="13" fill="#475569">the dashed box is the big idea; the topics tile it</text>
+</svg>
