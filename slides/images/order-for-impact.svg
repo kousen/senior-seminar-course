@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" width="760" height="360" font-family="Helvetica, Arial, sans-serif">
+<text x="30" y="40" font-size="18" fill="#1e3a8a" font-weight="bold">Same five messages, two orders</text>
+<text x="30" y="85" font-size="16" fill="#475569">Demotivating: ends on the gap</text>
+<g font-size="14" text-anchor="middle">
+<rect x="30" y="100" width="125" height="50" rx="8" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2"/><text x="92" y="130" fill="#1e3a8a">Goal we set</text>
+<rect x="170" y="100" width="125" height="50" rx="8" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2"/><text x="232" y="130" fill="#1e3a8a">What we did</text>
+<rect x="310" y="100" width="125" height="50" rx="8" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2"/><text x="372" y="130" fill="#1e3a8a">The numbers</text>
+<rect x="450" y="100" width="125" height="50" rx="8" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/><text x="512" y="130" fill="#475569">What is</text>
+<rect x="590" y="100" width="125" height="50" rx="8" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/><text x="652" y="124" fill="#475569">How far</text><text x="652" y="142" fill="#475569">we still are</text>
+</g>
+<text x="30" y="215" font-size="16" fill="#475569">Motivating: ends on the move to</text>
+<g font-size="14" text-anchor="middle">
+<rect x="30" y="230" width="125" height="50" rx="8" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/><text x="92" y="260" fill="#475569">What is</text>
+<rect x="170" y="230" width="125" height="50" rx="8" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2"/><text x="232" y="260" fill="#1e3a8a">Goal we set</text>
+<rect x="310" y="230" width="125" height="50" rx="8" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2"/><text x="372" y="260" fill="#1e3a8a">What we did</text>
+<rect x="450" y="230" width="125" height="50" rx="8" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2"/><text x="512" y="260" fill="#1e3a8a">The numbers</text>
+<rect x="590" y="230" width="125" height="50" rx="8" fill="#fffbeb" stroke="#f59e0b" stroke-width="3"/><text x="652" y="254" fill="#b45309" font-weight="bold">What could be,</text><text x="652" y="272" fill="#b45309" font-weight="bold">and how</text>
+</g>
+<text x="30" y="330" font-size="15" fill="#475569">Nothing was added or removed. The last thing they hear is what they walk out with.</text>
+</svg>

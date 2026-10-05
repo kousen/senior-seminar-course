@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300" font-family="Helvetica, Arial, sans-serif">
+<line x1="40" y1="220" x2="720" y2="220" stroke="#94a3b8" stroke-width="2"/>
+<line x1="40" y1="100" x2="720" y2="100" stroke="#94a3b8" stroke-width="2" stroke-dasharray="6 6"/>
+<text x="40" y="245" font-size="16" fill="#475569">fact: the mathematics</text>
+<text x="40" y="90" font-size="16" fill="#1d4ed8">context: the history, the wonder</text>
+<polyline points="60,220 110,220 110,100 170,100 170,220 230,220 230,100 270,100 270,220 340,220 340,100 400,100 400,220 450,220 450,100 490,100 490,220 560,220 560,100 610,100 610,220 650,220 650,100 720,100" fill="none" stroke="#1d4ed8" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="60" cy="220" r="8" fill="#b45309"/>
+<text x="60" y="280" font-size="15" fill="#b45309" text-anchor="middle">Tycho, Kepler</text>
+<circle cx="400" cy="100" r="8" fill="#b45309"/>
+<text x="400" y="280" font-size="15" fill="#b45309" text-anchor="middle">Newton, the inverse square</text>
+<circle cx="720" cy="100" r="8" fill="#b45309"/>
+<text x="690" y="280" font-size="15" fill="#b45309" text-anchor="middle">the tides, galaxies</text>
+</svg>

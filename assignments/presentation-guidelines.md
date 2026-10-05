@@ -20,7 +20,7 @@ Bring what you wrote in Post-Mortem 1 under "what I will change." I will be watc
 
 ## The preliminary faculty pitch
 
-**When:** December, date to be announced; usually the week before finals, set around the Travelers representative's schedule.
+**When:** Wednesday, December 16, 2026, the fall student conference. Time and room will be announced on Moodle.
 **Who:** your project team.
 **Audience:** the CS faculty and the Travelers representative. The question they are asking is the same one your classmates asked in November, with more at stake: is this worth a year of your time?
 

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 240" width="760" height="240" font-family="Helvetica, Arial, sans-serif">
+<g font-size="15" text-anchor="middle">
+<rect x="20" y="60" width="130" height="90" rx="10" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2.5"/>
+<text x="85" y="96" fill="#1e3a8a" font-weight="bold">Collect, create</text><text x="85" y="118" fill="#475569" font-size="13">go wide, no judging</text>
+<rect x="170" y="60" width="130" height="90" rx="10" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2.5"/>
+<text x="235" y="96" fill="#1e3a8a" font-weight="bold">Cluster</text><text x="235" y="118" fill="#475569" font-size="13">three to five topics</text>
+<rect x="320" y="60" width="130" height="90" rx="10" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2.5"/>
+<text x="385" y="96" fill="#1e3a8a" font-weight="bold">Filter</text><text x="385" y="118" fill="#475569" font-size="13">murder darlings</text>
+<rect x="470" y="60" width="130" height="90" rx="10" fill="#fffbeb" stroke="#f59e0b" stroke-width="3"/>
+<text x="535" y="96" fill="#b45309" font-weight="bold">Structure</text><text x="535" y="118" fill="#475569" font-size="13">order for impact</text>
+<rect x="620" y="60" width="130" height="90" rx="10" fill="#fffbeb" stroke="#f59e0b" stroke-width="3"/>
+<text x="685" y="96" fill="#b45309" font-weight="bold">Storyboard</text><text x="685" y="118" fill="#475569" font-size="13">then, and only then, slides</text>
+</g>
+<g stroke="#94a3b8" stroke-width="3" fill="#94a3b8"><path d="M150 105 H168"/><path d="M300 105 H318"/><path d="M450 105 H468"/><path d="M600 105 H618"/>
+<path d="M162 99 L170 105 L162 111 Z"/><path d="M312 99 L320 105 L312 111 Z"/><path d="M462 99 L470 105 L462 111 Z"/><path d="M612 99 L620 105 L612 111 Z"/></g>
+<text x="235" y="40" font-size="14" fill="#475569" text-anchor="middle">Chapter 5, last week</text>
+<text x="610" y="40" font-size="14" fill="#b45309" text-anchor="middle">Chapter 6, today</text>
+<text x="380" y="200" font-size="15" fill="#475569" text-anchor="middle">Sticky notes all the way through. Nobody has opened a slide tool yet.</text>
+</svg>

@@ -78,7 +78,7 @@ Each assignment has a sheet in the course repository with the full expectations.
 
 ### The preliminary faculty pitch
 
-In December, each senior project team gives its ten-minute pitch to the faculty and the Travelers representative. The date is set around the representative's schedule, usually the week before finals, and will be announced on Moodle once it is fixed. The goal is the same as Presentation 2 with a different audience: convince the faculty the project is worth doing. The spring semester ends with the real thing at the student conference.
+On **Wednesday, December 16**, each senior project team gives its ten-minute pitch to the faculty and the Travelers representative at the fall student conference. The goal is the same as Presentation 2 with a different audience: convince the faculty the project is worth doing. The spring semester ends with the real thing at the student conference.
 
 ### Peer feedback and attendance
 
@@ -108,7 +108,7 @@ Teams of one or two are the norm. A team of three needs the advisor's agreement 
 | **Attendance and Participation** | 20% | Being in the room, asking questions, giving usable feedback after talks. |
 | **Presentations** | 40% | Presentation 1, the "anything" talk (15%). Presentation 2, the project pitch (25%). |
 | **Writing** | 20% | Talk analysis, Post-mortem 1, Post-mortem 2. Each is pass/redo; the category is the fraction passed. |
-| **Preliminary Faculty Pitch** | 20% | The team's ten-minute pitch to the faculty and the Travelers representative in December. |
+| **Preliminary Faculty Pitch** | 20% | The team's ten-minute pitch to the faculty and the Travelers representative on December 16. |
 
 ### Notes on grading
 
@@ -205,8 +205,8 @@ Chapters refer to *Resonate*. Read the chapter before the class where it is list
 ### Week 13 — Tuesday, December 8 *(last meeting)*
 - Rehearsal for the preliminary faculty pitch
 
-### December, date to be announced
-**Preliminary faculty pitch**, ten minutes per team, with the Travelers representative present. Usually the week before finals; set around the representative's schedule.
+### Wednesday, December 16: Student conference
+**Preliminary faculty pitch**, ten minutes per team, with the Travelers representative present. Time and room to be announced on Moodle.
 
 ---
 

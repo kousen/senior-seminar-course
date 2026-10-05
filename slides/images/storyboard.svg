@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" width="760" height="400" font-family="Helvetica, Arial, sans-serif">
+<defs><filter id="s" x="-5%" y="-5%" width="115%" height="120%"><feDropShadow dx="2" dy="3" stdDeviation="2" flood-color="#000" flood-opacity="0.18"/></filter></defs>
+<g filter="url(#s)">
+<rect x="30" y="30" width="210" height="150" fill="#fef3c7" transform="rotate(-2 135 105)"/>
+<rect x="275" y="30" width="210" height="150" fill="#fef3c7" transform="rotate(1.5 380 105)"/>
+<rect x="520" y="30" width="210" height="150" fill="#fef3c7" transform="rotate(-1 625 105)"/>
+<rect x="30" y="215" width="210" height="150" fill="#fef3c7" transform="rotate(1 135 290)"/>
+<rect x="275" y="215" width="210" height="150" fill="#fef3c7" transform="rotate(-1.5 380 290)"/>
+<rect x="520" y="215" width="210" height="150" fill="#fef3c7" transform="rotate(2 625 290)"/>
+</g>
+<g stroke="#1e3a8a" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="135" cy="85" r="18"/><path d="M135 103 V140 M135 115 L112 130 M135 115 L158 130 M135 140 L120 165 M135 140 L150 165"/>
+<path d="M300 150 L320 120 L345 135 L375 80 L400 100 L440 60"/><path d="M300 150 H455 M300 150 V60"/>
+<rect x="560" y="65" width="130" height="80" rx="6"/><path d="M575 85 H675 M575 105 H650 M575 125 H665"/>
+<path d="M70 320 L110 270 L150 320 Z"/><circle cx="190" cy="280" r="14"/><path d="M150 320 H210"/>
+<path d="M310 330 Q380 230 455 330"/><path d="M440 318 L455 330 L440 342"/>
+<circle cx="600" cy="285" r="16"/><circle cx="650" cy="285" r="16"/><path d="M600 301 V330 M650 301 V330 M600 310 H650"/>
+</g>
+<g font-size="13" fill="#b45309" text-anchor="middle">
+<text x="135" y="175">1. a person waiting</text><text x="380" y="175">2. the data, one line</text><text x="625" y="175">3. the approach</text>
+<text x="135" y="360">4. the demo</text><text x="380" y="360">5. from here to there</text><text x="625" y="360">6. the ask</text>
+</g>
+<text x="380" y="392" font-size="14" fill="#475569" text-anchor="middle">Smallest sticky note you can find. If the doodle does not fit, the slide is too complex.</text>
+</svg>
