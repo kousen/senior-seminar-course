@@ -50,10 +50,9 @@ layout: center
 
 <v-clicks>
 
-- Housekeeping: a date, a correction, and a newsletter
+- Housekeeping: a date, a deadline, and a newsletter
 - Finish Chapter 5: stories, numbers, and the cut
 - Chapter 6: arrange the messages so the structure does the work
-- Structure your three messages
 - Today's talks, with feedback after each
 
 </v-clicks>
@@ -64,11 +63,9 @@ layout: center
 
 <v-clicks>
 
-- **The student conference is Wednesday, December 16.** That is the preliminary pitch to faculty and the Travelers representative. Put it on your calendar now.
-- **Correction.** Last week I said post-mortems had no deadline before the end of the semester. Wrong. A post-mortem is due **one week after your talk**; the Moodle date (November 3 for Post-Mortem 1) is only the outer limit. And: specific moments, not timestamps. The recordings are not good enough to cite by the minute.
-- **Announcements forum:** a short newsletter piece on answering "tell me about yourself." Optional, not graded, fifteen minutes well spent.
-- **No class October 13** (Trinity Days). We meet again October 20.
-- **AI Center** meets **Thursday at 4:30**, not Friday, this week only.
+- **Student conference: Wednesday, December 16.** The preliminary pitch to faculty and the Travelers representative.
+- **Post-mortems are due one week after your talk.** Specific moments, not timestamps.
+- **Announcements forum:** Brian Hogan on answering "tell me about yourself." Fifteen minutes, not graded.
 
 </v-clicks>
 
@@ -188,19 +185,6 @@ image: ./images/tuning-fork.jpg
 
 </v-clicks>
 
----
-
-# Topics into messages (five minutes)
-
-For your **project pitch** in Round 2, on paper or in a note you will keep:
-
-1. **Big idea.** One sentence: your perspective, the stakes, the word "you."
-2. **Three topics** that tile it without overlap. Problem, approach, plan is a fine start.
-3. **Three messages.** Rewrite each topic as a full sentence with a what is / what could be contrast inside it.
-
-<div class="callout amber mt-4">
-Keep it. These three sentences are the skeleton of your Round 2 talk, and the rest of today is about arranging them.
-</div>
 
 ---
 layout: section
@@ -478,20 +462,6 @@ image: ./images/watch-disassembled.jpg
 
 </v-clicks>
 
----
-
-# Structure your three messages (five minutes)
-
-Take the three messages from the top of class, or from last week if you kept them.
-
-1. **Pick a structure** from the eight. Problem-solution is the default for a pitch; say if you chose otherwise and why.
-2. **Order them so the last one is the move to.** What does the room walk out holding?
-3. **Mark each A or E.** If all three are analytical, pick one and find the human in it.
-4. **Six sticky notes.** Doodle the six slides of a ten-minute pitch. No words beyond a label.
-
-<div class="callout amber mt-4">
-Keep it with the messages. That is your Round 2 outline, and Chapter 7 (October 20) is about the moment in it they will remember.
-</div>
 
 ---
 layout: center
@@ -507,7 +477,7 @@ layout: center
 </div>
 <div>
 <div class="text-sm opacity-70 mb-2">Section 02, 2:55</div>
-<div class="callout">1. Allan Mukkuzhi and Varvara Esina</div>
+<div class="callout amber">No talks today</div>
 </div>
 </div>
 
@@ -542,11 +512,12 @@ While you listen: can you **name the structure**? Did it **end on the move to**?
 | Date | Presenters |
 |---|---|
 | Sept 29 | Gabby and Noella ✓ |
-| Oct 6 | Allan and Varya, *open*, *open* |
+| Oct 6 | *open*, *open*, *open* |
 | Oct 20 | Jeev, Sloane, Amraa |
+| Oct 27 | Allan and Varya, *open*, *open* |
 
 <div class="callout amber mt-4">
-Two people are not on the sheet yet. Four Round 1 slots are open. Anyone may present in the other section.
+Two people are not on the sheet yet. Oct 27 is now a talk day in both sections. Anyone may present in the other section.
 </div>
 
 </div>
@@ -558,10 +529,10 @@ layout: center
 
 # For October 20
 
-- Presenters today: **post-mortem 1** due in one week on Moodle. What you intended, what happened, what you would change. Specific moments, not timestamps.
+- Presenters today: **post-mortem 1** due in one week on Moodle. What you intended, what happened, what you would change.
 - October 20 presenters: slides to Moodle before class. Six talks that day, so ten minutes means ten.
 - Read Chapter 7, *Deliver Something They'll Always Remember*: the S.T.A.R. moment.
-- Keep the outline and the six sticky notes from today.
+- **On your own, for your Round 2 pitch:** big idea in one sentence, three messages, pick a structure, end on the move to, mark each A or E, six sticky-note doodles. Bring the outline to your advisor, not a deck.
 - No class October 13. Enjoy Trinity Days.
 
 ---
