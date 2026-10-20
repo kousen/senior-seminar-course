@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 340" width="520" height="340" font-family="Helvetica, Arial, sans-serif">
+<!-- glass -->
+<path d="M150 60 L170 300 Q175 318 200 318 L320 318 Q345 318 350 300 L370 60 Z" fill="#eff6ff" stroke="#64748b" stroke-width="3"/>
+<path d="M158 130 L175 300 Q178 310 200 310 L320 310 Q342 310 345 300 L362 130 Z" fill="#bfdbfe" opacity="0.8"/>
+<!-- ice cubes -->
+<rect x="185" y="150" width="46" height="40" rx="6" fill="#ffffff" stroke="#93c5fd" stroke-width="2" transform="rotate(-12 208 170)"/>
+<rect x="290" y="165" width="44" height="40" rx="6" fill="#ffffff" stroke="#93c5fd" stroke-width="2" transform="rotate(15 312 185)"/>
+<rect x="240" y="240" width="48" height="42" rx="6" fill="#ffffff" stroke="#93c5fd" stroke-width="2" transform="rotate(5 264 261)"/>
+<!-- clamp jaws -->
+<rect x="236" y="40" width="48" height="26" rx="4" fill="#475569"/>
+<rect x="254" y="60" width="12" height="130" fill="#64748b"/>
+<rect x="222" y="186" width="76" height="14" rx="3" fill="#475569"/>
+<!-- O-ring, squeezed flat between jaws -->
+<ellipse cx="260" cy="214" rx="54" ry="16" fill="none" stroke="#b45309" stroke-width="12"/>
+<!-- labels -->
+<text x="400" y="52" font-size="16" fill="#475569">C-clamp</text>
+<text x="400" y="120" font-size="16" fill="#1d4ed8">ice water, 32 °F</text>
+<text x="400" y="218" font-size="16" fill="#b45309">the O-ring</text>
+<text x="400" y="240" font-size="13" fill="#b45309">same material as the shuttle's</text>
+<text x="20" y="80" font-size="13" fill="#475569">clamp it,</text>
+<text x="20" y="98" font-size="13" fill="#475569">chill it,</text>
+<text x="20" y="116" font-size="13" fill="#475569">release it,</text>
+<text x="20" y="134" font-size="13" fill="#b45309">watch it stay flat.</text>
+</svg>

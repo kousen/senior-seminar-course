@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300" font-family="Helvetica, Arial, sans-serif">
+<line x1="40" y1="230" x2="720" y2="230" stroke="#94a3b8" stroke-width="2"/>
+<text x="40" y="258" font-size="15" fill="#475569">beginning</text>
+<text x="720" y="258" font-size="15" fill="#475569" text-anchor="end">end</text>
+<polyline points="60,230 120,230 120,150 190,150 190,230 260,230 260,150 330,150 330,230 400,230 400,150 460,150 460,230 540,230 540,150 600,150 600,230 660,230 660,150 720,150" fill="none" stroke="#1d4ed8" stroke-width="4" stroke-linejoin="round"/>
+<!-- the star: one spike that leaves the normal band -->
+<polygon points="490,60 500,88 530,90 507,108 514,138 490,122 466,138 473,108 450,90 480,88" fill="#f59e0b" stroke="#b45309" stroke-width="2"/>
+<line x1="490" y1="140" x2="490" y2="230" stroke="#b45309" stroke-width="3" stroke-dasharray="6 5"/>
+<text x="490" y="40" font-size="17" fill="#b45309" text-anchor="middle" font-weight="bold">S.T.A.R.</text>
+<text x="40" y="140" font-size="15" fill="#1d4ed8">what could be</text>
+<text x="40" y="222" font-size="15" fill="#475569">what is</text>
+<text x="640" y="290" font-size="14" fill="#475569" text-anchor="end">the one moment they describe to someone who was not there</text>
+</svg>

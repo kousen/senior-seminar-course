@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 260" width="760" height="260" font-family="Helvetica, Arial, sans-serif">
+<defs><g id="tower"><polygon points="-14,60 14,60 4,0 -4,0" fill="#475569"/><line x1="-22" y1="20" x2="22" y2="20" stroke="#475569" stroke-width="3"/><line x1="-16" y1="40" x2="16" y2="40" stroke="#475569" stroke-width="3"/></g>
+<g id="arc"><path d="M0 0 q 20 -40 40 0" fill="none" stroke="#f59e0b" stroke-width="3"/><path d="M-12 0 q 32 -62 64 0" fill="none" stroke="#f59e0b" stroke-width="3" opacity="0.7"/><path d="M-24 0 q 44 -84 88 0" fill="none" stroke="#f59e0b" stroke-width="3" opacity="0.4"/></g></defs>
+<line x1="20" y1="200" x2="740" y2="200" stroke="#94a3b8" stroke-width="2"/>
+<!-- speaker -->
+<circle cx="70" cy="110" r="16" fill="#1d4ed8"/><rect x="56" y="130" width="28" height="60" rx="8" fill="#1d4ed8"/>
+<text x="70" y="230" font-size="14" fill="#1d4ed8" text-anchor="middle">you, in the room</text>
+<use href="#arc" x="110" y="120"/>
+<use href="#tower" x="250" y="140"/><text x="250" y="230" font-size="14" fill="#475569" text-anchor="middle">someone repeats it</text>
+<use href="#arc" x="290" y="120"/>
+<use href="#tower" x="430" y="140"/><text x="430" y="230" font-size="14" fill="#475569" text-anchor="middle">a headline, a post</text>
+<use href="#arc" x="470" y="120"/>
+<use href="#tower" x="610" y="140"/><text x="610" y="230" font-size="14" fill="#475569" text-anchor="middle">people who were not there</text>
+<text x="380" y="40" font-size="16" fill="#b45309" text-anchor="middle">a moment worth retelling travels farther than the talk did</text>
+</svg>
