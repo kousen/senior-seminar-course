@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" font-family="Helvetica, Arial, sans-serif">
+  <defs><marker id="a" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#1e293b"/></marker></defs>
+  <line x1="80" y1="220" x2="860" y2="220" stroke="#1e293b" stroke-width="2" marker-end="url(#a)"/>
+  <line x1="80" y1="220" x2="80" y2="20" stroke="#1e293b" stroke-width="2" marker-end="url(#a)"/>
+  <text x="470" y="250" font-size="15" text-anchor="middle" fill="#1e293b">Presenter's preparation</text>
+  <text x="30" y="120" font-size="15" text-anchor="middle" fill="#1e293b" transform="rotate(-90 30 120)">Audience interest</text>
+  <line x1="80" y1="220" x2="820" y2="45" stroke="#1d4ed8" stroke-width="4"/>
+  <g font-size="13" fill="#475569">
+    <circle cx="170" cy="199" r="7" fill="#d97706"/><text x="185" y="185">first draft, presented</text>
+    <circle cx="420" cy="140" r="7" fill="#d97706"/><text x="435" y="168">rehearsed out loud, timed</text>
+    <circle cx="640" cy="88" r="7" fill="#d97706"/><text x="655" y="110">screened with honest critics</text>
+    <circle cx="790" cy="52" r="7" fill="#d97706"/><text x="640" y="38">recording reviewed, revised</text>
+  </g>
+</svg>

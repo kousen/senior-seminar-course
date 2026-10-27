@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" font-family="Helvetica, Arial, sans-serif">
+  <defs><marker id="a" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#1d4ed8"/></marker></defs>
+  <g font-size="16" text-anchor="middle" fill="#1e293b">
+    <rect x="20" y="90" width="150" height="70" rx="10" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2"/><text x="95" y="120">Sender</text><text x="95" y="142" font-size="12" fill="#475569">you</text>
+    <rect x="250" y="90" width="150" height="70" rx="10" fill="#fff" stroke="#1d4ed8" stroke-width="2"/><text x="325" y="120">Transmission</text><text x="325" y="142" font-size="12" fill="#475569">words, slides, room</text>
+    <rect x="480" y="90" width="150" height="70" rx="10" fill="#fff" stroke="#1d4ed8" stroke-width="2"/><text x="555" y="120">Reception</text><text x="555" y="142" font-size="12" fill="#475569">what they hear</text>
+    <rect x="710" y="90" width="170" height="70" rx="10" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2"/><text x="795" y="120">Receiver</text><text x="795" y="142" font-size="12" fill="#475569">the audience</text>
+    <line x1="170" y1="125" x2="245" y2="125" stroke="#1d4ed8" stroke-width="3" marker-end="url(#a)"/>
+    <line x1="400" y1="125" x2="475" y2="125" stroke="#1d4ed8" stroke-width="3" marker-end="url(#a)"/>
+    <line x1="630" y1="125" x2="705" y2="125" stroke="#1d4ed8" stroke-width="3" marker-end="url(#a)"/>
+  </g>
+  <g font-size="14" text-anchor="middle" fill="#92400e">
+    <path d="M95,40 l10,18 l-8,0 l8,18" stroke="#d97706" stroke-width="3" fill="none"/><text x="95" y="28">Credibility noise</text>
+    <path d="M325,40 l10,18 l-8,0 l8,18" stroke="#d97706" stroke-width="3" fill="none"/><text x="325" y="28">Semantic noise</text>
+    <path d="M555,40 l10,18 l-8,0 l8,18" stroke="#d97706" stroke-width="3" fill="none"/><text x="555" y="28">Experiential noise</text>
+    <path d="M795,40 l10,18 l-8,0 l8,18" stroke="#d97706" stroke-width="3" fill="none"/><text x="795" y="28">Bias noise</text>
+  </g>
+  <g font-size="12" text-anchor="middle" fill="#475569">
+    <text x="95" y="195">Do they believe you?</text>
+    <text x="325" y="195">Same meaning to them?</text>
+    <text x="555" y="195">Room, mic, projector in the way?</text>
+    <text x="795" y="195">Decided before you spoke?</text>
+  </g>
+  <text x="450" y="245" font-size="14" text-anchor="middle" fill="#1e293b">Every step either strengthens the signal or adds noise. Rehearsal is noise reduction.</text>
+</svg>

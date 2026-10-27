@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" font-family="Helvetica, Arial, sans-serif">
+  <g font-size="13" fill="#1e293b" text-anchor="middle">
+    <!-- analytical audience -->
+    <polygon points="150,60 40,230 260,230" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2"/>
+    <text x="150" y="50">Ethos</text><text x="30" y="250">Logos</text><text x="270" y="250">Pathos</text>
+    <circle cx="90" cy="195" r="26" fill="#1d4ed8" opacity="0.85"/><text x="90" y="199" fill="#fff" font-size="11">weight</text>
+    <text x="150" y="285" font-size="15" font-weight="bold">Analytical room</text>
+    <!-- emotional audience -->
+    <polygon points="450,60 340,230 560,230" fill="#fffbeb" stroke="#d97706" stroke-width="2"/>
+    <text x="450" y="50">Ethos</text><text x="330" y="250">Logos</text><text x="570" y="250">Pathos</text>
+    <circle cx="510" cy="195" r="26" fill="#d97706" opacity="0.85"/><text x="510" y="199" fill="#fff" font-size="11">weight</text>
+    <text x="450" y="285" font-size="15" font-weight="bold">Emotional room</text>
+    <!-- imbalance -->
+    <polygon points="750,60 640,230 860,230" fill="#fff" stroke="#94a3b8" stroke-width="2" stroke-dasharray="6 4"/>
+    <text x="750" y="50" fill="#94a3b8">Ethos cracks</text><text x="630" y="250">Logos</text><text x="870" y="250">Pathos</text>
+    <circle cx="845" cy="235" r="26" fill="#dc2626" opacity="0.85"/><text x="845" y="239" fill="#fff" font-size="11">too far</text>
+    <line x1="750" y1="60" x2="745" y2="120" stroke="#dc2626" stroke-width="3"/><line x1="745" y1="120" x2="760" y2="150" stroke="#dc2626" stroke-width="3"/>
+    <text x="750" y="285" font-size="15" font-weight="bold">Overdone, either way</text>
+  </g>
+  <text x="450" y="22" font-size="15" text-anchor="middle" fill="#1e293b">The triangle is not static. Slide the weight toward the room, but never all the way to a corner.</text>
+</svg>
