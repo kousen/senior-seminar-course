@@ -186,9 +186,8 @@ Chapters refer to *Resonate*. Read the chapter before the class where it is list
 - Chapter 9, *Change Your World*
 - Round 2 project pitches begin
 
-### Week 9 — Tuesday, November 10
-- Workshop: slides that support a technical talk
-- Round 2 project pitches
+### Week 9 — Tuesday, November 10: no class
+- No class meeting. Instead, **Thursday, November 12, 12:15–1:15 PM (common hour):** meet the Travelers representatives, with the engineering seniors. Pizza. Room announced on Moodle. This is the audience for December 16; attend.
 
 ### Week 10 — Tuesday, November 17
 - Workshop: delivery, timing, and questions
@@ -196,7 +195,7 @@ Chapters refer to *Resonate*. Read the chapter before the class where it is list
 
 ### Week 11 — Tuesday, November 24
 - Coda, *Inspiration Is Everywhere*
-- Round 2 project pitches conclude
+- Round 2 project pitches conclude (Round 2 dates: November 3, 17, 24)
 
 ### Week 12 — Tuesday, December 1
 - **Due: Post-mortem 2** (outer limit; one week after your own talk)
@@ -204,9 +203,10 @@ Chapters refer to *Resonate*. Read the chapter before the class where it is list
 
 ### Week 13 — Tuesday, December 8 *(last meeting)*
 - Rehearsal for the preliminary faculty pitch
+- **Due Wednesday, December 9: one-page project summary** per team, on the template Travelers provides (posted on Moodle when it arrives). One week before the conference.
 
 ### Wednesday, December 16: Student conference
-**Preliminary faculty pitch**, ten minutes per team, with the Travelers representative present. Time and room to be announced on Moodle.
+**Preliminary faculty pitch**, ten minutes per team, with the Travelers representative present. MECC 270, starting at 8:30 AM; the order of talks is announced on Moodle.
 
 ---
 

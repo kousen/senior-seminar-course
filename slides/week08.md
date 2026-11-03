@@ -54,7 +54,7 @@ layout: center
 
 <v-clicks>
 
-- Housekeeping: post-mortems, November 10 and 12, a new December deliverable, Round 2
+- Housekeeping: post-mortems, no class November 10, Travelers on November 12, a new December deliverable, Round 2
 - Talks: Section 01 hears Ralston's pitch and Shamsher's Anything talk; Section 02 hears three Anything talks
 - A detour: why the code word is **samantha**, a live conversation with one, and what the AI companion market looks like three weeks after its biggest company went bankrupt
 - Finish Chapter 7 (Section 01 from the S.T.A.R. moment, Section 02 from evocative visuals) and start Chapter 8, the post-mortem chapter
@@ -68,9 +68,9 @@ layout: center
 <v-clicks>
 
 - **Post-mortem 1:** due one week after your talk. If you presented October 27, that is today. Specific moments, not timestamps. Today's Anything talks: yours is due November 10.
-- **Thursday, November 12, 12:15 to 1:15, common hour:** meet the Travelers representatives over pizza, together with the engineering seniors. I will decide today whether that replaces the November 10 class.
+- **No class November 10.** Instead: **Thursday, November 12, 12:15 to 1:15, common hour,** meet the Travelers representatives over pizza, together with the engineering seniors. Room announced on Moodle. This is the audience for December 16; go.
 - **New December deliverable:** a one-page project summary per team, on a template Travelers will provide, due one week before the conference. Moodle assignment and template to follow.
-- **Round 2 sign-up** runs through November 24, one slot per team. Six teams are on the sheet. Slides to Moodle before class.
+- **Round 2 sign-up:** November 17 and 24 are the only dates left, one slot per team. Six teams are on the sheet. Slides to Moodle before class.
 - **AI Center:** Friday, November 6, 3 PM on Zoom.
 - **December 16,** MECC 270, 8:30 AM: the student conference.
 
@@ -775,7 +775,7 @@ While you listen: what was the **first impression**? Was there a **moment**, and
 | Date | Presenters |
 |---|---|
 | Nov 3 | Ralston |
-| Nov 10 | Patrick, *open*, *open* (if we meet) |
+| Nov 10 | *no class*; Patrick moves to Nov 17 or 24 |
 | Nov 17 | Zoe, Kayla and Sean; Biruk and Gabe; *open* |
 | Nov 24 | Shamsher, *open*, *open* |
 
@@ -787,12 +787,12 @@ While you listen: what was the **first impression**? Was there a **moment**, and
 | Date | Presenters |
 |---|---|
 | Nov 3 | Kuany, Abdel, Jeev (Round 1 makeups) |
-| Nov 10 | *open*, *open*, *open* (if we meet) |
+| Nov 10 | *no class* |
 | Nov 17 | *open*, *open*, *open* |
 | Nov 24 | Allan and Varya, *open*, *open* |
 
 <div class="callout amber mt-4">
-Six teams signed, about nine to go: Fledge, Sonar, Nestling, Simulation, Taha, Ethan, Amraa, Liu, and anyone I have missed. One slot per team. Sign up today; the sheet is first come, first served.
+Two dates left, November 17 and 24, ten open slots across both sections. Six teams signed, about nine to go: Fledge, Sonar, Nestling, Simulation, Taha, Ethan, Amraa, Liu, and anyone I have missed. One slot per team. Sign up today.
 </div>
 
 </div>
@@ -806,9 +806,9 @@ layout: center
 
 - Presenters today: **post-mortem 1** (Anything talks) or notes toward **post-mortem 2** (Ralston) due in one week on Moodle. Use the Chapter 8 checklist. Watch the recording first.
 - Everyone: finish Chapter 8 and read Chapter 9, *Change Your World*.
-- **Round 2 sign-up:** one slot per team, through November 24. Slides to Moodle before class on your day.
+- **Round 2 sign-up:** one slot per team, November 17 or 24 only. Slides to Moodle before class on your day.
 - **For your pitch:** the big idea in one sentence, your one S.T.A.R. moment, a plain-English twin for every piece of jargon, and one honest sentence about what could go wrong. Rehearse it out loud once, timed, before you build a single slide.
-- **November 12, 12:15, common hour:** pizza with Travelers. Details on Moodle once the room is set.
+- **No class November 10.** Thursday November 12, 12:15, common hour: pizza with Travelers. Room on Moodle once it is set.
 
 ---
 layout: center

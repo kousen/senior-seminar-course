@@ -12,7 +12,7 @@ The point is to isolate presentation skill from content difficulty. Last year th
 
 ## Presentation 2: the project pitch
 
-**When:** Weeks 8 to 11 (November 3, 10, 17, 24). Three slots per section per week.
+**When:** November 3, 17, and 24 (no class November 10). Three slots per section per week.
 **Who:** your senior project team, one or two people, or three with the advisor's agreement. Everyone speaks.
 **Topic:** your senior project. The job is to make the room believe the project is worth doing. Same shape as the faculty pitch, lower stakes.
 
@@ -20,7 +20,7 @@ Bring what you wrote in Post-Mortem 1 under "what I will change." I will be watc
 
 ## The preliminary faculty pitch
 
-**When:** Wednesday, December 16, 2026, the fall student conference. Time and room will be announced on Moodle.
+**When:** Wednesday, December 16, 2026, the fall student conference. MECC 270, starting at 8:30 AM; the order of talks will be announced on Moodle. One week earlier, Wednesday December 9, each team submits a one-page project summary on the template Travelers provides.
 **Who:** your project team.
 **Audience:** the CS faculty and the Travelers representative. The question they are asking is the same one your classmates asked in November, with more at stake: is this worth a year of your time?
 
