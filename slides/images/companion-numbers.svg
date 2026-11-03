@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 300" font-family="system-ui, sans-serif">
+  <g font-size="13" fill="#1f2937">
+    <text x="10" y="40">US teens 13–17 who have tried an AI companion</text>
+    <rect x="10" y="50" width="520" height="22" fill="#e5e7eb" rx="4"/>
+    <rect x="10" y="50" width="374" height="22" fill="#1d4ed8" rx="4"/>
+    <text x="394" y="67" font-weight="700" fill="#1e3a8a">72%</text>
+
+    <text x="10" y="110">… who use one regularly</text>
+    <rect x="10" y="120" width="520" height="22" fill="#e5e7eb" rx="4"/>
+    <rect x="10" y="120" width="270" height="22" fill="#1d4ed8" rx="4"/>
+    <text x="290" y="137" font-weight="700" fill="#1e3a8a">52%</text>
+
+    <text x="10" y="180">Users who chose the AI over a person for a serious conversation</text>
+    <rect x="10" y="190" width="520" height="22" fill="#e5e7eb" rx="4"/>
+    <rect x="10" y="190" width="172" height="22" fill="#f59e0b" rx="4"/>
+    <text x="192" y="207" font-weight="700" fill="#b45309">33%</text>
+
+    <text x="10" y="250">US teens who use a chatbot of any kind daily (Pew, Dec 2025)</text>
+    <rect x="10" y="260" width="520" height="22" fill="#e5e7eb" rx="4"/>
+    <rect x="10" y="260" width="166" height="22" fill="#1d4ed8" rx="4"/>
+    <text x="186" y="277" font-weight="700" fill="#1e3a8a">about a third</text>
+  </g>
+  <text x="10" y="296" font-size="10" fill="#6b7280">Common Sense Media, "Talk, Trust, and Trade-Offs," 2025 (n≈1,060), except where noted.</text>
+</svg>

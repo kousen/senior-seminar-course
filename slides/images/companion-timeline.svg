@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" font-family="system-ui, sans-serif">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#1d4ed8"/>
+    </marker>
+  </defs>
+  <line x1="30" y1="150" x2="885" y2="150" stroke="#1d4ed8" stroke-width="3" marker-end="url(#arr)"/>
+  <g font-size="13" fill="#1f2937" text-anchor="middle">
+    <g transform="translate(75,0)">
+      <circle cx="0" cy="150" r="7" fill="#f59e0b"/>
+      <text y="100" font-weight="700" fill="#1e3a8a">1966</text>
+      <text y="120">ELIZA, MIT</text>
+      <text y="180" font-size="11" fill="#6b7280">200 lines of script</text>
+      <text y="195" font-size="11" fill="#6b7280">people confide in it</text>
+    </g>
+    <g transform="translate(205,0)">
+      <circle cx="0" cy="150" r="7" fill="#f59e0b"/>
+      <text y="100" font-weight="700" fill="#1e3a8a">2013</text>
+      <text y="120">Her</text>
+      <text y="180" font-size="11" fill="#6b7280">one OS,</text>
+      <text y="195" font-size="11" fill="#6b7280">8,316 conversations</text>
+    </g>
+    <g transform="translate(335,0)">
+      <circle cx="0" cy="150" r="7" fill="#1d4ed8"/>
+      <text y="100" font-weight="700" fill="#1e3a8a">2017</text>
+      <text y="120">Replika</text>
+      <text y="180" font-size="11" fill="#6b7280">born from a dead</text>
+      <text y="195" font-size="11" fill="#6b7280">friend's texts</text>
+    </g>
+    <g transform="translate(465,0)">
+      <circle cx="0" cy="150" r="7" fill="#1d4ed8"/>
+      <text y="100" font-weight="700" fill="#1e3a8a">2022</text>
+      <text y="120">Character.AI</text>
+      <text y="180" font-size="11" fill="#6b7280">ex-LaMDA founders</text>
+      <text y="195" font-size="11" fill="#6b7280">20M users, under 24</text>
+    </g>
+    <g transform="translate(595,0)">
+      <circle cx="0" cy="150" r="7" fill="#dc2626"/>
+      <text y="100" font-weight="700" fill="#1e3a8a">Oct 2024</text>
+      <text y="120">Setzer lawsuit</text>
+      <text y="180" font-size="11" fill="#6b7280">age 14, Florida</text>
+      <text y="195" font-size="11" fill="#6b7280">more suits in 2025</text>
+    </g>
+    <g transform="translate(725,0)">
+      <circle cx="0" cy="150" r="7" fill="#dc2626"/>
+      <text y="100" font-weight="700" fill="#1e3a8a">2025</text>
+      <text y="120">Pressure</text>
+      <text y="180" font-size="11" fill="#6b7280">FTC inquiry, under-18</text>
+      <text y="195" font-size="11" fill="#6b7280">ban, California law</text>
+    </g>
+    <g transform="translate(845,0)">
+      <circle cx="0" cy="150" r="7" fill="#dc2626"/>
+      <text y="100" font-weight="700" fill="#1e3a8a">2026</text>
+      <text y="120">Reckoning</text>
+      <text y="180" font-size="11" fill="#6b7280">Jan: settlements</text>
+      <text y="195" font-size="11" fill="#6b7280">Oct 12: Chapter 11</text>
+    </g>
+  </g>
+  <text x="30" y="260" font-size="12" fill="#6b7280">Amber: the idea.  Blue: the market.  Red: the reckoning.</text>
+</svg>

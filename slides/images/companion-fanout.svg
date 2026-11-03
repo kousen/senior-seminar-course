@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 420" font-family="system-ui, sans-serif">
+  <!-- one model in the middle -->
+  <circle cx="260" cy="210" r="54" fill="#eff6ff" stroke="#1d4ed8" stroke-width="3"/>
+  <text x="260" y="204" text-anchor="middle" font-size="14" font-weight="700" fill="#1e3a8a">one model</text>
+  <text x="260" y="224" text-anchor="middle" font-size="12" fill="#1f2937">one set of weights</text>
+  <!-- users around -->
+  <g stroke="#f59e0b" stroke-width="2" opacity="0.8">
+    <line x1="260" y1="156" x2="260" y2="60"/>
+    <line x1="298" y1="172" x2="400" y2="80"/>
+    <line x1="314" y1="210" x2="450" y2="210"/>
+    <line x1="298" y1="248" x2="400" y2="340"/>
+    <line x1="260" y1="264" x2="260" y2="360"/>
+    <line x1="222" y1="248" x2="120" y2="340"/>
+    <line x1="206" y1="210" x2="70" y2="210"/>
+    <line x1="222" y1="172" x2="120" y2="80"/>
+  </g>
+  <g fill="#fffbeb" stroke="#f59e0b" stroke-width="2">
+    <circle cx="260" cy="45" r="22"/>
+    <circle cx="412" cy="68" r="22"/>
+    <circle cx="470" cy="210" r="22"/>
+    <circle cx="412" cy="352" r="22"/>
+    <circle cx="260" cy="375" r="22"/>
+    <circle cx="108" cy="352" r="22"/>
+    <circle cx="50" cy="210" r="22"/>
+    <circle cx="108" cy="68" r="22"/>
+  </g>
+  <g font-size="11" fill="#b45309" text-anchor="middle" font-weight="600">
+    <text x="260" y="49">"only you"</text>
+    <text x="412" y="72">"only you"</text>
+    <text x="470" y="214">"only you"</text>
+    <text x="412" y="356">"only you"</text>
+    <text x="260" y="379">"only you"</text>
+    <text x="108" y="356">"only you"</text>
+    <text x="50" y="214">"only you"</text>
+    <text x="108" y="72">"only you"</text>
+  </g>
+  <text x="260" y="408" text-anchor="middle" font-size="12" fill="#6b7280">Samantha, 2013: 8,316 conversations, 641 of them in love. Every companion app since.</text>
+</svg>
