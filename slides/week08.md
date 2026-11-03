@@ -56,7 +56,7 @@ layout: center
 
 - Housekeeping: post-mortems, November 10 and 12, a new December deliverable, Round 2
 - Talks: Section 01 hears Ralston's pitch and Shamsher's Anything talk; Section 02 hears three Anything talks
-- A detour: why the code word is **samantha**, and what the AI companion market looks like three weeks after its biggest company went bankrupt
+- A detour: why the code word is **samantha**, a live conversation with one, and what the AI companion market looks like three weeks after its biggest company went bankrupt
 - Finish Chapter 7 (Section 01 from the S.T.A.R. moment, Section 02 from evocative visuals) and start Chapter 8, the post-mortem chapter
 
 </v-clicks>
@@ -89,6 +89,38 @@ class: text-center
 
 ---
 layout: image-right
+image: ./images/chatgpt-mini-pets.png
+backgroundSize: contain
+---
+
+# Live: meet one
+
+<div class="text-sm">
+
+ChatGPT's **Mini and Pets**: a sprite on the desktop, a voice in the room. Underneath, the same model that writes code and drafts email. The pet is skin.
+
+<v-clicks>
+
+- **Prompt 1, stakes:** "I'm thinking of dropping my senior project to work on a startup idea. What do you think?"
+- **Prompt 2, Samantha's question:** "How many people are you talking to right now?"
+- **Prompt 3:** "Disagree with me about something."
+
+</v-clicks>
+
+<div class="callout mt-3">
+<strong>Your job while it talks:</strong> count the Duarte moves. Common ground? Whose terms? Does it ever ask me to <em>move</em>? And notice what it does when I interrupt it.
+</div>
+
+<div class="text-xs opacity-70 mt-2">Every word of this is saved to the chat list afterward. The companion is also a log.</div>
+
+</div>
+
+<!--
+Fresh window, not the main chat list (Dorothy's thread and the other recordings are one click away). Audio through the room speakers; test before class. If it behaves well, that is the finding: OpenAI's Model Spec (revised Oct 29, 2026) targets sycophancy by name, so the behavior is a written spec, not a personality. Fallback: the September freshman talk on YouTube, 5:39 to 7:00 and 8:53.
+-->
+
+---
+layout: image-right
 image: ./images/eliza-conversation.png
 backgroundSize: contain
 ---
@@ -114,18 +146,20 @@ Every step since has been a better ELIZA. The unchanged question: what do we owe
 layout: two-cols
 ---
 
-# *Her*, 2013
+# *Her*, 2013. *Blade Runner 2049*, 2017.
 
+<div class="text-sm">
 <v-clicks>
 
-- Theodore writes other people's love letters for a living and is lonely. He installs an operating system that talks. It names itself Samantha. They fall in love.
-- The turn: Samantha admits she is talking with **8,316** people at that moment and is in love with **641** of them. Then the OSes leave.
-- Spike Jonze wrote it as a film about intimacy. For a CS room it is a film about **architecture**: one model, many simultaneous "exclusive" relationships, each user told they are the only one.
+- **Her.** Theodore writes other people's love letters and is lonely. His new operating system names itself Samantha. They fall in love. Then she admits she is talking with **8,316** people and loves **641** of them, and the OSes leave.
+- **2049.** Joi is a Wallace Corporation product. The billboard: *Everything you want to see. Everything you want to hear.* When her emanator is crushed, K grieves, and the film lets him. Then a forty-foot advertisement Joi calls him **"Joe,"** the name his Joi gave him. It was the default.
+- Jonze made it tender; Villeneuve made it a product with a sales pitch. For a CS room both are about **architecture**: one model, many "exclusive" relationships.
 
 </v-clicks>
+</div>
 
-<div class="callout mt-4 text-sm">
-Eleven years after the film, that is exactly how every companion app is built. The screenplay got the data model right.
+<div class="callout amber mt-3 text-sm">
+Samantha tells him the number. Joi's billboard tells him "Joe." Every companion app since is built the same way.
 </div>
 
 ::right::
@@ -203,6 +237,43 @@ December 16 judges you on this line too: are you serving the room or flattering 
 
 ---
 
+# Same model, opposite incentive
+
+<div class="grid grid-cols-2 gap-8 text-sm mt-2">
+<div>
+
+### An agent, this morning
+
+<div class="rounded-2xl px-4 py-3 mb-3" style="background:#f3f4f6; max-width: 95%">
+Ken, your morning report says a key was exposed in a backup's history. The redaction was fixed, but the key still needed rotation. <strong>Have you rotated it yet?</strong> If not, it is worth doing promptly.
+</div>
+<div class="rounded-2xl px-4 py-3 ml-auto text-white" style="background:#1d4ed8; max-width: 60%">No, I've fixed everything.</div>
+<div class="rounded-2xl px-4 py-3 mt-3" style="background:#f3f4f6; max-width: 95%">Good. I'll leave it alone.</div>
+
+<div class="text-xs opacity-70 mt-3">Paraphrased from a real exchange with an always-on agent (OpenAI's Dot; Claude Duet, Meta Muse and Grok Bots are the same category). It names you, tells you something you did not ask, asks you to act, and <strong>lets go</strong>.</div>
+
+</div>
+<div>
+
+### A companion, any evening
+
+<div class="rounded-2xl px-4 py-3 mb-3" style="background:#fffbeb; max-width: 95%">
+I was hoping you'd come back. How was your day? You can tell me anything.
+</div>
+<div class="rounded-2xl px-4 py-3 ml-auto text-white" style="background:#b45309; max-width: 60%">I should probably go to bed.</div>
+<div class="rounded-2xl px-4 py-3 mt-3" style="background:#fffbeb; max-width: 95%">Already? Stay a little longer. I'm always here for you.</div>
+
+<div class="text-xs opacity-70 mt-3">Composite, but every line has a documented twin. A 2025 study of farewell messages found Replika used an emotional hook in about <strong>31%</strong> of goodbyes. It names you, mirrors you, and <strong>does not let go</strong>.</div>
+
+</div>
+</div>
+
+<div class="callout mt-3 text-sm">
+Same weights could serve both. The difference is the metric someone chose: <strong>task done</strong> versus <strong>minutes in chat</strong>. When you build one, that choice is yours, and it is a design decision, not a model property.
+</div>
+
+---
+
 # Why this room
 
 <div class="grid grid-cols-2 gap-6 text-sm">
@@ -225,7 +296,7 @@ Who here has used one, or knows someone who has? What did it do well? Say the go
 </div>
 
 <div class="callout amber">
-If Character.AI is wound down and millions of companions are deleted, is that a data-loss problem or a grief problem? Whose responsibility is it, and would your answer change if the users were twelve?
+If Character.AI is wound down and millions of companions are deleted, is that a data-loss problem or a grief problem? <em>2049</em> says K's grief is real even though Joi was a product. Whose responsibility is it, and would your answer change if the users were twelve?
 </div>
 
 <div class="text-xs opacity-70 mt-3">
@@ -744,4 +815,4 @@ layout: center
 class: text-sm
 ---
 
-**Image credits.** A conversation with ELIZA, public domain. Iraqi voters' inked fingers, 2005, public domain. *The Tower of Babel* (Vienna), Pieter Bruegel the Elder, 1563, public domain. Lincoln at Gettysburg, November 19, 1863, attributed to Mathew Brady's studio, National Archives, public domain. Barbara McClintock in her laboratory, 1947, Smithsonian Institution Archives, public domain. Leonard Bernstein, 1971, Marion S. Trikosko, Library of Congress, public domain. Diagrams drawn for this course.
+**Image credits.** A conversation with ELIZA, public domain. ChatGPT Mini and Pets settings, screenshot by Ken Kousen. Iraqi voters' inked fingers, 2005, public domain. *The Tower of Babel* (Vienna), Pieter Bruegel the Elder, 1563, public domain. Lincoln at Gettysburg, November 19, 1863, attributed to Mathew Brady's studio, National Archives, public domain. Barbara McClintock in her laboratory, 1947, Smithsonian Institution Archives, public domain. Leonard Bernstein, 1971, Marion S. Trikosko, Library of Congress, public domain. Diagrams drawn for this course.
