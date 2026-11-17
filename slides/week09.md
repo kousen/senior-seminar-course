@@ -343,26 +343,11 @@ class: text-center
 
 ## Deliver Something They'll Always Remember
 
-<div class="text-sm opacity-70 mt-4">Section 02 only, from evocative visuals. Section 01 finished this chapter on November 3.</div>
-
----
-layout: image-right
-image: ./images/iraq-inked-fingers.jpg
----
-
-# Evocative visuals
-
-<v-clicks>
-
-- When people recall an image, they recall the feeling that came with it. A photograph can do what a paragraph cannot.
-- Duarte's pair: Iraq, 2005, voters raising ink-stained fingers in defiance of bombs. Zimbabwe, 2008, the same ink demanded as proof you voted for the only candidate. Same gesture, opposite emotion.
-- One full-screen image to make a point. Two side by side to make a contrast: the ocean, then the beach full of trash.
-- For you: a single frame from a traffic camera next to the same frame with the detections drawn on it says more than a precision number.
-
-</v-clicks>
+<div class="text-sm opacity-70 mt-4">Section 02 only, from emotive storytelling. Section 01 finished this chapter on November 3.</div>
 
 ---
 layout: two-cols
+class: text-sm
 ---
 
 # Emotive storytelling
@@ -535,6 +520,7 @@ class: text-center
 ---
 layout: image-right
 image: ./images/babel-bruegel.jpg
+class: text-sm
 ---
 
 # Hop down from your tower
@@ -552,6 +538,7 @@ image: ./images/babel-bruegel.jpg
 ---
 layout: image-right
 image: ./images/mcclintock-1947.jpg
+class: text-sm
 ---
 
 # Case in point: Barbara McClintock
@@ -718,6 +705,7 @@ Duarte's test: can the room take in the slide in under three seconds and come ba
 ---
 layout: image-right
 image: ./images/bernstein-1971.jpg
+class: text-sm
 ---
 
 # Case study: Leonard Bernstein
@@ -728,7 +716,6 @@ image: ./images/bernstein-1971.jpg
 - Every abstraction got a familiar picture. Musical development as a three-stage rocket. Beethoven's four-note seed and the flower that grows from it. Brahms flipping melodies "like pancakes."
 - It sounded like a casual chat. It was days of writing on yellow legal pads with a team, scripts revised as many as ten times, blocking notes for where he would stand, alternate passages written for different audience reactions.
 - After every show they watched the recording and marked what to fix next time. That habit is this course's post-mortem, done by a professional.
-- Variety's line about him: he knew exactly how much new information to give before each climax.
 
 </v-clicks>
 
@@ -1050,4 +1037,4 @@ layout: center
 class: text-sm
 ---
 
-**Image credits.** Iraqi voters' inked fingers, 2005, public domain. *The Tower of Babel* (Vienna), Pieter Bruegel the Elder, 1563, public domain. Lincoln at Gettysburg, November 19, 1863, attributed to Mathew Brady's studio, National Archives, public domain. Barbara McClintock in her laboratory, 1947, Smithsonian Institution Archives, public domain. Leonard Bernstein, 1971, Marion S. Trikosko, Library of Congress, public domain. President Kennedy addressing Congress, May 25, 1961, NASA, public domain. Enron Code of Ethics, FBI, public domain. Martin Luther King, Jr. at the March on Washington, August 28, 1963, Rowland Scherman, National Archives, public domain. *The Emperor's New Clothes*, Vilhelm Pedersen, 1849, public domain. Alan Turing at Princeton, 1936, public domain. Martha Graham and Bertram Ross, 1961, Carl Van Vechten, Library of Congress, public domain. Diagrams drawn for this course.
+**Image credits.** *The Tower of Babel* (Vienna), Pieter Bruegel the Elder, 1563, public domain. Lincoln at Gettysburg, November 19, 1863, attributed to Mathew Brady's studio, National Archives, public domain. Barbara McClintock in her laboratory, 1947, Smithsonian Institution Archives, public domain. Leonard Bernstein, 1971, Marion S. Trikosko, Library of Congress, public domain. President Kennedy addressing Congress, May 25, 1961, NASA, public domain. Enron Code of Ethics, FBI, public domain. Martin Luther King, Jr. at the March on Washington, August 28, 1963, Rowland Scherman, National Archives, public domain. *The Emperor's New Clothes*, Vilhelm Pedersen, 1849, public domain. Alan Turing at Princeton, 1936, public domain. Martha Graham and Bertram Ross, 1961, Carl Van Vechten, Library of Congress, public domain. Diagrams drawn for this course.
