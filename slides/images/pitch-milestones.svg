@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 560" font-family="Helvetica, Arial, sans-serif">
+  <line x1="60" y1="50" x2="60" y2="510" stroke="#94a3b8" stroke-width="4"/>
+  <g font-size="19" fill="#1f2937">
+    <circle cx="60" cy="60" r="14" fill="#94a3b8"/>
+    <text x="95" y="56" font-weight="bold">September, October</text>
+    <text x="95" y="80" fill="#475569">Anything talk: who you are</text>
+    <circle cx="60" cy="170" r="14" fill="#1d4ed8"/>
+    <text x="95" y="166" font-weight="bold" fill="#1d4ed8">Now through December 8</text>
+    <text x="95" y="190" fill="#475569">Round 2 pitch: a room of peers</text>
+    <circle cx="60" cy="280" r="14" fill="#b45309"/>
+    <text x="95" y="276" font-weight="bold" fill="#b45309">December 16</text>
+    <text x="95" y="300" fill="#475569">Faculty and Travelers: is it worth doing?</text>
+    <circle cx="60" cy="390" r="14" fill="#1d4ed8"/>
+    <text x="95" y="386" font-weight="bold" fill="#1d4ed8">Spring, CPSC 404</text>
+    <text x="95" y="410" fill="#475569">Progress talks: what changed, what broke</text>
+    <circle cx="60" cy="500" r="18" fill="#b45309"/>
+    <text x="95" y="496" font-weight="bold" fill="#b45309">April conference</text>
+    <text x="95" y="520" fill="#475569">Ten minutes, a poster, and prizes</text>
+  </g>
+  <g font-size="15" fill="#64748b" font-style="italic">
+    <text x="95" y="122">feedback, post-mortem</text>
+    <text x="95" y="232">feedback, post-mortem, one-page summary</text>
+    <text x="95" y="342">questions from people who fund things</text>
+    <text x="95" y="452">rehearsal, screening, recording</text>
+  </g>
+</svg>
