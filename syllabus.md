@@ -195,15 +195,16 @@ Chapters refer to *Resonate*. Read the chapter before the class where it is list
 
 ### Week 11 — Tuesday, November 24
 - Coda, *Inspiration Is Everywhere*
-- Round 2 project pitches conclude (Round 2 dates: November 3, 17, 24)
+- Round 2 project pitches (Round 2 now runs through December 8)
 
 ### Week 12 — Tuesday, December 1
-- **Due: Post-mortem 2** (outer limit; one week after your own talk)
+- Round 2 project pitches
 - Preparing the faculty pitch: what changes when the audience is faculty
 
 ### Week 13 — Tuesday, December 8 *(last meeting)*
-- Rehearsal for the preliminary faculty pitch
-- **Due Wednesday, December 9: one-page project summary** per team, on the template Travelers provides (posted on Moodle when it arrives). One week before the conference.
+- Round 2 project pitches conclude; these double as rehearsal for the preliminary faculty pitch
+- **Due Wednesday, December 9: one-page project summary** per team, on the template Travelers provided (attached to the Moodle assignment). One week before the conference.
+- **Due Tuesday, December 15: Post-mortem 2** (outer limit; one week after your own talk)
 
 ### Wednesday, December 16: Student conference
 **Preliminary faculty pitch**, ten minutes per team, with the Travelers representative present. MECC 270, starting at 8:30 AM; the order of talks is announced on Moodle.
