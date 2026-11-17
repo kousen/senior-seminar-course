@@ -50,7 +50,7 @@ layout: center
 
 <v-clicks>
 
-- Housekeeping, including **spring registration**: a PIN for CPSC 404 and a form for CPSC 499
+- Housekeeping, including **spring registration** (a PIN for CPSC 404, a form for CPSC 499) and the **Travelers one-page summary**
 - **No talks today.** Nobody signed up in either section, which leaves three talk days for thirteen pitches. We will look at the sheet.
 - Why the code word is **ava**
 - Section 02: the end of the AI companions detour and the rest of Chapter 7
@@ -68,7 +68,7 @@ layout: center
 <div class="text-2xl font-bold" style="color:#1d4ed8">CPSC 404</div>
 <div class="mt-2">This seminar, spring half.</div>
 <div class="mt-4 text-xl"><strong>You need a PIN to sign up.</strong></div>
-<div class="mt-4 text-sm opacity-80">Without the PIN, the registration system will not let you add the course.</div>
+<div class="mt-4 text-sm opacity-80"><strong>Email me and ask for one.</strong> Each PIN is unique and I keep a list, so I need the request from you, in writing.</div>
 </div>
 <div class="callout amber">
 <div class="text-2xl font-bold" style="color:#b45309">CPSC 499</div>
@@ -91,12 +91,44 @@ Neither one happens by itself, and they are two separate steps. Do both.
 - **Round 2 sign-up:** three talk days left, November 24, December 1 and December 8. Six teams are on the sheet; seven are not. Sign up today. Slides to Moodle before class on your day.
 - **Post-mortem 1:** due one week after your talk, so everything from Round 1 is now due. Four are still out. Specific moments, not timestamps.
 - **Post-mortem 2:** one week after your pitch.
-- **One-page project summary** per team, on the Travelers template, due **Wednesday, December 9.** Moodle assignment to follow.
+- **One-page project summary** per team, on the Travelers template, due **Wednesday, December 9.** The template arrived this morning; next slide.
 - **AI Center:** Friday, November 20, 3 PM on Zoom. No meeting the Friday after Thanksgiving.
 - **We meet next Tuesday, November 24.**
 - **December 16,** MECC 270, 8:30 AM: the student conference.
 
 </v-clicks>
+
+---
+
+# The Travelers one-page project summary
+
+<div class="text-sm opacity-80">One per team, due <strong>Wednesday, December 9</strong>, a week before the conference. The template says to plan on two hours or less, and to answer in plain language: "If you can say it simply, you understand it."</div>
+
+<div class="grid grid-cols-2 gap-6 text-sm mt-3">
+<div style="font-size: 0.78rem; line-height: 1.25">
+
+| Section | What it asks |
+|---|---|
+| **The opportunity** | Who it's for, why it matters, what we're making. A sentence each. |
+| **How we'll know it's working** | What changes, how we'll measure it, our target |
+| **How we'll test it early** | The quickest, cheapest way to learn if we're onto something |
+| **Milestones** (up to four) | By when; we keep going if we see…; we adjust or rethink if we see… |
+| **What we need, who we depend on** | Time, people, tools, access, approvals |
+| **Top three risks** | What could go wrong, and our response |
+
+</div>
+<div>
+
+<div class="callout">
+<strong>This is your pitch on paper.</strong> "The opportunity" is the big idea from Chapter 4: who, why, what. If your team cannot fill in those three lines today, that is what your Round 2 pitch is for.
+</div>
+<div class="callout amber mt-3">
+<strong>Notice what they want to see.</strong> Measures, an early test, the conditions under which you would change course, and three risks. The people who fund projects do not ask whether it will work. They ask how you will find out.
+</div>
+<div class="text-xs opacity-70 mt-3">The Word template and a Moodle assignment for the finished page will be on Moodle.</div>
+
+</div>
+</div>
 
 ---
 
@@ -980,7 +1012,7 @@ layout: center
 # For next time
 
 - **Sign up for a Round 2 slot** if your team is not on the sheet: November 24, December 1 or December 8. Slides to Moodle before class on your day.
-- **Spring registration:** get your **PIN for CPSC 404**, and file the **Special Registration form for CPSC 499** with your advisor's approval.
+- **Spring registration:** **email me for your CPSC 404 PIN**, and file the **Special Registration form for CPSC 499** with your advisor's approval.
 - **Post-mortem 1** if you still owe it. Use the Chapter 8 checklist.
 - Read the **Coda**, *Inspiration Is Everywhere*.
 - **For your pitch:** the big idea in one sentence, one S.T.A.R. moment, a plain-English twin for every piece of jargon, and one honest sentence about what could go wrong. Screen it with someone who will tell you the truth.
