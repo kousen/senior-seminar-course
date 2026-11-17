@@ -102,10 +102,10 @@ Neither one happens by itself, and they are two separate steps. Do both.
 
 # The Travelers one-page project summary
 
-<div class="text-sm opacity-80">One per team, due <strong>Wednesday, December 9</strong>, a week before the conference. The template says to plan on two hours or less, and to answer in plain language: "If you can say it simply, you understand it."</div>
+<div class="text-sm opacity-80">One per team, due <strong>Wednesday, December 9</strong>, a week before the conference. Travelers' own instructions on the template: plan on two hours or less, and answer in plain language: "If you can say it simply, you understand it."</div>
 
 <div class="grid grid-cols-2 gap-6 text-sm mt-3">
-<div style="font-size: 0.78rem; line-height: 1.25">
+<div style="font-size: 0.72rem; line-height: 1.15">
 
 | Section | What it asks |
 |---|---|
@@ -113,8 +113,9 @@ Neither one happens by itself, and they are two separate steps. Do both.
 | **How we'll know it's working** | What changes, how we'll measure it, our target |
 | **How we'll test it early** | The quickest, cheapest way to learn if we're onto something |
 | **Milestones** (up to four) | By when; we keep going if we see…; we adjust or rethink if we see… |
-| **What we need, who we depend on** | Time, people, tools, access, approvals |
+| **What we need** | Time, people, tools, access, approvals |
 | **Top three risks** | What could go wrong, and our response |
+| **Technologies; AI disclosure** | Built by us or used as is; which AI tools, and how much |
 
 </div>
 <div>
@@ -125,7 +126,7 @@ Neither one happens by itself, and they are two separate steps. Do both.
 <div class="callout amber mt-3">
 <strong>Notice what they want to see.</strong> Measures, an early test, the conditions under which you would change course, and three risks. The people who fund projects do not ask whether it will work. They ask how you will find out.
 </div>
-<div class="text-xs opacity-70 mt-3">The Word template and a Moodle assignment for the finished page will be on Moodle.</div>
+<div class="text-xs opacity-70 mt-3">On Moodle now, in the December 8 week: the assignment, the Word template, and a completed example for a made-up project. We will look at the example together.</div>
 
 </div>
 </div>
