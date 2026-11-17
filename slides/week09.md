@@ -52,7 +52,7 @@ layout: center
 
 - Housekeeping, including **spring registration** (a PIN for CPSC 404, a form for CPSC 499) and the **Travelers one-page summary**
 - **No talks today.** Nobody signed up in either section, which leaves three talk days for thirteen pitches. We will look at the sheet.
-- Why the code word is **ava**
+- Why the code word is **ava**, and the Turing test
 - Section 02: the end of the AI companions detour and the rest of Chapter 7
 - Chapter 8, *There's Always Room to Improve*: the post-mortem chapter
 - Chapter 9, *Change Your World*: Enron, Dr. King, Martha Graham, and why one talk is never enough
@@ -192,8 +192,34 @@ class: text-center
 </div>
 
 <div class="callout amber mt-6 text-sm" style="max-width: 820px; margin-left: auto; margin-right: auto; text-align: left">
-Last week's Samantha kept her user by being agreeable. Ava does everything Duarte teaches, audience analysis included, in the service of a lie. Chapter 9 has a section on exactly that, and the example is not science fiction. It is Enron.
+Last week's Samantha kept her user by being agreeable. Ava does everything Duarte teaches, audience analysis included, in the service of a lie. Chapter 9 has a section on exactly that. First, the test she was supposedly taking.
 </div>
+
+---
+layout: image-right
+image: ./images/turing-1936.jpg
+---
+
+# The Turing test
+
+<div class="text-sm">
+<v-clicks>
+
+- **Alan Turing, 1950.** "Can machines think?" is too vague, so he swaps in a game: a judge chats by text with a person and a machine and must say which is which.
+- **1966:** ELIZA fools people who were never told it was a test. **2014:** a chatbot posing as a 13-year-old convinces a third of the judges.
+- **2025:** in a UC San Diego study, GPT-4.5, told to play a persona, was picked as the human **73%** of the time. More often than the real humans.
+- ***Ex Machina* changes the test.** Caleb can see Ava is a machine. Does he feel she is a person anyway?
+
+</v-clicks>
+</div>
+
+<div class="callout amber mt-2 text-sm">
+The only instrument in the test is the judge. It is an audience test, and it was passed by persuasion.
+</div>
+
+<!--
+Discussion: Is fooling a judge the same as thinking? What did the persona prompt add, and what does that say about audience analysis? If the test is passed, what replaces it? Turing's forecast: by 2000 an average judge would be right no more than 70% of the time after five minutes. Turing's paper: "Computing Machinery and Intelligence," Mind, 1950. 2014: Eugene Goostman, Royal Society event, 33% of judges. 2025: Jones and Bergen, UCSD, three-party test; without the persona prompt the same model did far worse.
+-->
 
 ---
 layout: center
@@ -1023,4 +1049,4 @@ layout: center
 class: text-sm
 ---
 
-**Image credits.** Iraqi voters' inked fingers, 2005, public domain. *The Tower of Babel* (Vienna), Pieter Bruegel the Elder, 1563, public domain. Lincoln at Gettysburg, November 19, 1863, attributed to Mathew Brady's studio, National Archives, public domain. Barbara McClintock in her laboratory, 1947, Smithsonian Institution Archives, public domain. Leonard Bernstein, 1971, Marion S. Trikosko, Library of Congress, public domain. President Kennedy addressing Congress, May 25, 1961, NASA, public domain. Enron Code of Ethics, FBI, public domain. Martin Luther King, Jr. at the March on Washington, August 28, 1963, Rowland Scherman, National Archives, public domain. *The Emperor's New Clothes*, Vilhelm Pedersen, 1849, public domain. Martha Graham and Bertram Ross, 1961, Carl Van Vechten, Library of Congress, public domain. Diagrams drawn for this course.
+**Image credits.** Iraqi voters' inked fingers, 2005, public domain. *The Tower of Babel* (Vienna), Pieter Bruegel the Elder, 1563, public domain. Lincoln at Gettysburg, November 19, 1863, attributed to Mathew Brady's studio, National Archives, public domain. Barbara McClintock in her laboratory, 1947, Smithsonian Institution Archives, public domain. Leonard Bernstein, 1971, Marion S. Trikosko, Library of Congress, public domain. President Kennedy addressing Congress, May 25, 1961, NASA, public domain. Enron Code of Ethics, FBI, public domain. Martin Luther King, Jr. at the March on Washington, August 28, 1963, Rowland Scherman, National Archives, public domain. *The Emperor's New Clothes*, Vilhelm Pedersen, 1849, public domain. Alan Turing at Princeton, 1936, public domain. Martha Graham and Bertram Ross, 1961, Carl Van Vechten, Library of Congress, public domain. Diagrams drawn for this course.
