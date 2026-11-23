@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" font-family="Helvetica, Arial, sans-serif">
+  <rect width="960" height="300" fill="#ffffff"/>
+  <text x="20" y="62" font-size="15" fill="#6b7280">Sonata</text>
+  <text x="20" y="212" font-size="15" fill="#6b7280">Talk</text>
+  <g font-size="19" font-weight="bold" text-anchor="middle">
+    <rect x="100" y="30" width="270" height="56" rx="10" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2"/>
+    <text x="235" y="65" fill="#1d4ed8">Exposition</text>
+    <rect x="385" y="30" width="270" height="56" rx="10" fill="#fef3c7" stroke="#b45309" stroke-width="2"/>
+    <text x="520" y="65" fill="#b45309">Development</text>
+    <rect x="670" y="30" width="270" height="56" rx="10" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2"/>
+    <text x="805" y="65" fill="#1d4ed8">Recapitulation</text>
+    <rect x="100" y="180" width="270" height="56" rx="10" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2"/>
+    <text x="235" y="215" fill="#1d4ed8">Beginning</text>
+    <rect x="385" y="180" width="270" height="56" rx="10" fill="#fef3c7" stroke="#b45309" stroke-width="2"/>
+    <text x="520" y="215" fill="#b45309">Middle</text>
+    <rect x="670" y="180" width="270" height="56" rx="10" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2"/>
+    <text x="805" y="215" fill="#1d4ed8">End</text>
+  </g>
+  <g font-size="15" fill="#374151" text-anchor="middle">
+    <text x="235" y="112">state the theme, then repeat it</text>
+    <text x="520" y="112">alter it, wander away from home</text>
+    <text x="805" y="112">the theme returns, in the home key</text>
+    <text x="235" y="262">what is, and the gap</text>
+    <text x="520" y="262">what is / what could be, back and forth</text>
+    <text x="805" y="262">the call, and the new bliss</text>
+  </g>
+  <g stroke="#9ca3af" stroke-width="2" stroke-dasharray="5 5">
+    <line x1="235" y1="124" x2="235" y2="176"/>
+    <line x1="520" y1="124" x2="520" y2="176"/>
+    <line x1="805" y1="124" x2="805" y2="176"/>
+  </g>
+</svg>
