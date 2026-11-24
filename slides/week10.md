@@ -150,7 +150,7 @@ layout: center
 
 ---
 layout: image-right
-image: ./images/asimov.jpg
+image: ./images/asimov-1981.jpg
 class: text-sm
 ---
 
@@ -905,4 +905,4 @@ layout: center
 class: text-sm
 ---
 
-**Image credits.** Isaac Asimov, before 1959, Phillip Leonian, New York World-Telegram and Sun collection, Library of Congress, public domain. *The Tower of Babel* (Vienna), Pieter Bruegel the Elder, 1563, public domain. Lincoln at Gettysburg, November 19, 1863, attributed to Mathew Brady's studio, National Archives, public domain. Barbara McClintock in her laboratory, 1947, Smithsonian Institution Archives, public domain. Leonard Bernstein, 1971, Marion S. Trikosko, Library of Congress, public domain. President Kennedy addressing Congress, May 25, 1961, NASA, public domain. Enron Code of Ethics, FBI, public domain. Martin Luther King, Jr. at the March on Washington, August 28, 1963, Rowland Scherman, National Archives, public domain. *The Emperor's New Clothes*, Vilhelm Pedersen, 1849, public domain. Martha Graham and Bertram Ross, 1961, Carl Van Vechten, Library of Congress, public domain. Wolfgang Amadeus Mozart, posthumous portrait by Barbara Krafft, 1819, public domain. Ludwig van Beethoven, Joseph Karl Stieler, 1820, public domain. Diagrams drawn for this course.
+**Image credits.** Isaac Asimov, 1981, Rochester Institute of Technology *News and Events*, public domain. *The Tower of Babel* (Vienna), Pieter Bruegel the Elder, 1563, public domain. Lincoln at Gettysburg, November 19, 1863, attributed to Mathew Brady's studio, National Archives, public domain. Barbara McClintock in her laboratory, 1947, Smithsonian Institution Archives, public domain. Leonard Bernstein, 1971, Marion S. Trikosko, Library of Congress, public domain. President Kennedy addressing Congress, May 25, 1961, NASA, public domain. Enron Code of Ethics, FBI, public domain. Martin Luther King, Jr. at the March on Washington, August 28, 1963, Rowland Scherman, National Archives, public domain. *The Emperor's New Clothes*, Vilhelm Pedersen, 1849, public domain. Martha Graham and Bertram Ross, 1961, Carl Van Vechten, Library of Congress, public domain. Wolfgang Amadeus Mozart, posthumous portrait by Barbara Krafft, 1819, public domain. Ludwig van Beethoven, Joseph Karl Stieler, 1820, public domain. Diagrams drawn for this course.
