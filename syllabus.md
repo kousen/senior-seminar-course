@@ -203,7 +203,7 @@ Chapters refer to *Resonate*. Read the chapter before the class where it is list
 
 ### Week 13 — Tuesday, December 8 *(last meeting)*
 - Round 2 project pitches conclude; these double as rehearsal for the preliminary faculty pitch
-- **Due Wednesday, December 9: one-page project summary** per team, on the template Travelers provided (attached to the Moodle assignment). One week before the conference.
+- **Due Tuesday, December 8, by the end of the day: one-page project summary** per team, on the template Travelers provided (attached to the Moodle assignment). About a week before the conference.
 - **Due Tuesday, December 15: Post-mortem 2** (outer limit; one week after your own talk)
 
 ### Wednesday, December 16: Student conference

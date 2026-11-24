@@ -20,7 +20,7 @@ Bring what you wrote in Post-Mortem 1 under "what I will change." I will be watc
 
 ## The preliminary faculty pitch
 
-**When:** Wednesday, December 16, 2026, the fall student conference. MECC 270, starting at 8:30 AM; the order of talks will be announced on Moodle. One week earlier, Wednesday December 9, each team submits a one-page project summary on the template Travelers provides.
+**When:** Wednesday, December 16, 2026, the fall student conference. MECC 270, starting at 8:30 AM; the order of talks will be announced on Moodle. About a week earlier, by the end of the day on Tuesday December 8, each team submits a one-page project summary on the template Travelers provides.
 **Who:** your project team.
 **Audience:** the CS faculty and the Travelers representative. The question they are asking is the same one your classmates asked in November, with more at stake: is this worth a year of your time?
 
